@@ -38,7 +38,7 @@ Fabric Lakehouse — ShipmentLogs_Silver (Delta Lake)
 
 ## Architecture
 
-![Alt text for the image](file:///C:/Users/shubh/Downloads/architecture.svg)
+![Alt text for the image](https://github.com/ShubhangiBidkar/data-engineering-portfolio/blob/main/01-incremental-ingestion/architecture.svg)
 
 
 ---
