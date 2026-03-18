@@ -1,0 +1,2 @@
+TableName,LastWatermarkDate,CreatedDate,Notes
+ShipmentLogs,1900-01-01 00:00:00,2024-03-14 00:00:00,Initial seed — triggers full history load on first run
