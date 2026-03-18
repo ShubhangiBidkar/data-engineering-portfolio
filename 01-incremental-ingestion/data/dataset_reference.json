@@ -1,0 +1,29 @@
+{
+  "dataset_summary": {
+    "day1_initial_load": {
+      "file": "shipment_day1_initial_load.csv",
+      "records": 500,
+      "description": "Full historical load — seeds the Lakehouse on first pipeline run",
+      "date_range": "Jan 2024 – Mar 15 2024",
+      "columns": 24,
+      "unique_customers": 20,
+      "ports_covered": 25,
+      "cargo_types": 10,
+      "carriers": 10
+    },
+    "day2_delta": {
+      "file": "shipment_day2_delta.csv",
+      "records": 115,
+      "new_shipments": 80,
+      "updated_shipments": 35,
+      "description": "Day 2 incremental delta — new shipments + status updates",
+      "watermark_window": "2024-03-15 23:59:01 to 2024-03-16 23:59:00"
+    }
+  },
+  "column_definitions": {
+    "ShipmentID":          "Unique identifier — format FF-YYYY-NNNNNN",
+    "OriginPortCode":      "UN/LOCODE 5-character port code",
+    "LastModifiedDate":    "WATERMARK COLUMN — timestamp of last INSERT or UPDATE",
+    ...
+  }
+}
