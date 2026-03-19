@@ -67,6 +67,10 @@ Shipment statuses update throughout the day. A plain INSERT creates duplicate ro
 | 2 | Copy_DeltaRows | Extracts rows `WHERE LastModifiedDate > @watermark` into Parquet staging |
 | 3 | Notebook_Upsert | Quality checks → MERGE into Silver → advance watermark |
 
+
+
+![Pipeline Canvas](./screenshots/06_pipeline_canvas.png)
+
 ---
 
 ## Data Quality Rules
@@ -78,6 +82,30 @@ Applied in `NB_Incremental_Upsert.py` before every UPSERT:
 3. Drop records where `DepartureDate >= EstimatedArrival` — impossible dates
 4. Standardise `Status` — trim whitespace, apply title case
 5. Fill null `DelayReason` with `N/A` — downstream reporting consistency
+
+---
+
+
+## Implementation Screenshots
+
+### Watermark Control Table
+![Watermark Table](./screenshots/01_watermark_table.png)
+
+### Lookup Activity — Settings
+![Lookup Settings](./screenshots/02_lookup_settings.png)
+
+### Copy Activity — Source (Dynamic Watermark Query)
+![Copy Source](./screenshots/03_copy_source.png)
+
+### Copy Activity — Destination (Parquet Staging)
+![Copy Destination](./screenshots/04_copy_destination.png)
+
+### PySpark Notebook — MERGE Code
+![Notebook MERGE](./screenshots/05_notebook_merge.png)
+
+### Silver Table — 580 Rows in Lakehouse
+![Silver Table](./screenshots/07_silver_table.png)
+```
 
 ---
 
