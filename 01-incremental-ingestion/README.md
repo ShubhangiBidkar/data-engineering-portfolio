@@ -105,7 +105,7 @@ Applied in `NB_Incremental_Upsert.py` before every UPSERT:
 
 ### Silver Table — 580 Rows in Lakehouse
 ![Silver Table](./screenshots/07_silver_table.png)
-```
+
 
 ---
 
