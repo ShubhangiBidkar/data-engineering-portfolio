@@ -103,6 +103,9 @@ Applied in `NB_Incremental_Upsert.py` before every UPSERT:
 ### PySpark Notebook — MERGE Code
 ![Notebook MERGE](./screenshots/05_notebook_merge.png)
 
+### Notebook output — Day 2 incremental run
+![Notebook Output](https://github.com/ShubhangiBidkar/data-engineering-portfolio/blob/main/01-incremental-ingestion/screenshots/08_notebook_output.png.png)
+
 ### Silver Table — 580 Rows in Lakehouse
 ![Silver Table](./screenshots/07_silver_table.png)
 
