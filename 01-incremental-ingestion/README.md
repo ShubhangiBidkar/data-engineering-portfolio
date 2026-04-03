@@ -142,55 +142,5 @@ Applied in `NB_Incremental_Upsert.py` before every UPSERT:
     └── dataset_reference.json          ← column definitions and dataset summary
 ```
 
----
-
-## How to Reproduce
-
-**Prerequisites:**
-- Microsoft Fabric workspace (Trial or paid capacity)
-- Azure SQL Database
-- Azure Data Lake Storage Gen2
-
-**Steps:**
-1. Run `sql/01_create_tables.sql` in Azure SQL Query Editor
-2. Load `data/shipment_day1_initial_load.csv` into `dbo.ShipmentLogs` via BULK INSERT
-3. Create a Fabric Lakehouse named `ShipmentLogs_Lakehouse`
-4. Run the watermark table creation notebook (see README Step 2.3)
-5. Build the pipeline `PL_Incremental_ShipmentLogs` with 3 activities
-6. Upload `notebooks/NB_Incremental_Upsert.py` as a Fabric Notebook
-7. Run the pipeline — verify 500 rows in `ShipmentLogs_Silver`
-8. Load `data/shipment_day2_delta.csv` via MERGE into Azure SQL
-9. Run the pipeline again — verify 580 rows, watermark advanced
-
----
-
-## Concepts Covered
-
-| Concept | Where it appears |
-|---|---|
-| Watermark pattern | Lookup activity + watermark_control table |
-| Delta Lake ACID transactions | ShipmentLogs_Silver target table |
-| UPSERT / MERGE | `DeltaTable.merge()` in PySpark notebook |
-| Data quality enforcement | 5 rules in notebook before every write |
-| Idempotent pipelines | Watermark only advances after successful UPSERT |
-| Parquet staging | Copy Activity destination before Spark transformation |
-
----
-
-## Interview Q&A
-
-**Q: Why did you choose watermarking over CDC?**  
-CDC reads the database transaction log and requires elevated DB permissions. Watermarking based on `LastModifiedDate` was a permission-safe alternative that met all business requirements.
-
-**Q: What happens if the pipeline fails halfway through?**  
-The watermark is only updated after a successful UPSERT. A failed run leaves the watermark unchanged — the next run reprocesses the same window. Since MERGE is idempotent, no data corruption occurs.
-
-**Q: How do you handle late-arriving data?**  
-Records with `LastModifiedDate` earlier than the current watermark are picked up by a weekly broader sweep covering the past 7 days — a common hybrid approach for completeness without sacrificing daily freshness.
-
-**Q: Why Delta Lake instead of raw Parquet?**  
-Raw Parquet has no transaction log — a failed write can leave partial files. Delta Lake wraps Parquet with `_delta_log`, making every operation atomic, enabling safe retries, time travel, and schema evolution.
-
----
 
 *Part of the [Data Engineering Portfolio](../README.md)*
