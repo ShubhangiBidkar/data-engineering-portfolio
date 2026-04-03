@@ -2,7 +2,7 @@
 
 **Industry:** Healthcare — Multi-Site Hospital Network  
 **Platform:** Microsoft Fabric — Data Factory + Lakehouse + PySpark + Power BI  
-**Stack:** Azure SQL · ADLS Gen2 · Delta Lake · PySpark · DAX · DP-700 · DP-600 · PL-300  
+**Stack:** Azure SQL · ADLS Gen2 · Delta Lake · PySpark · DAX 
 
 ---
 
