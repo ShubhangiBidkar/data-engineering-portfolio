@@ -2,8 +2,7 @@
 
 **Industry:** Global Logistics & Supply Chain  
 **Platform:** Microsoft Fabric — Data Factory + Lakehouse + PySpark  
-**Stack:** Azure SQL · Delta Lake · PySpark · Parquet · DP-600  
-
+**Stack:** Azure SQL · Delta Lake · PySpark 
 ---
 
 ## Business Problem
