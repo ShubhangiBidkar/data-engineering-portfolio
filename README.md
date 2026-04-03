@@ -11,7 +11,7 @@ This repository contains end-to-end data engineering case studies built on Micro
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 01 | [Incremental Data Ingestion Pipeline — Global Logistics](./01-incremental-ingestion/) | Fabric · Azure SQL · Delta Lake · PySpark | ✅ Complete |
-| 02 | Medallion Lakehouse — Retail Analytics | Fabric · PySpark · Bronze/Silver/Gold | 🔄 In Progress |
+| 02 | Healthcare-medallion-lakehouses | Fabric · PySpark · Bronze/Silver/Gold | 🔄 In Progress |
 | 03 | Metadata-Driven File Routing — Smart City | Fabric · Dynamic Pipelines · ADLS Gen2 | ⏳ Planned |
 | 04 | Customer 360 with Dataflow Gen2 — Telecom | Fabric · Power Query M · Semantic Model | ⏳ Planned |
 | 05 | FX Rate Automation — Finance | Fabric Warehouse · T-SQL · JSON Parsing | ⏳ Planned |
