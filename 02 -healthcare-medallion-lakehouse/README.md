@@ -63,7 +63,8 @@ Power BI Semantic Model → MediCore Dashboard (3 pages + drillthrough)
 
 ## Architecture
 
-![Architecture Diagram](./architecture/cs2_architecture.svg)
+<img width="1412" height="699" alt="image" src="https://github.com/user-attachments/assets/3821a973-2893-4ef2-b644-1b367d9c6892" />
+
 
 ---
 
