@@ -171,33 +171,7 @@ A shortcut is a pointer — not a copy. Claims and appointments CSV files stay i
 <img width="2268" height="1367" alt="image" src="https://github.com/user-attachments/assets/b0f48557-876a-4f49-9d73-5d372d9816dc" />
 
 ---
-## Files
 
-```
-02-healthcare-medallion-lakehouse/
-├── README.md                              ← this file
-├── architecture/
-│   └── cs2_architecture.svg               ← end-to-end architecture diagram
-├── sql/
-│   └── cs2_01_azure_sql_patients.sql      ← Azure SQL schema + BULK INSERT + indexes
-├── notebooks/
-│   ├── NB_00_Bronze_Setup.py              ← watermark_control creation and seed
-│   ├── NB_01_Bronze_Patients.py           ← incremental MERGE from Azure SQL
-│   ├── NB_02_Bronze_Claims.py             ← full overwrite from ADLS Gen2 shortcut
-│   ├── NB_03_Bronze_Appointments.py       ← full overwrite from ADLS Gen2 shortcut
-│   ├── NB_04_Silver_Patients.py           ← 8 quality rules + dedup
-│   ├── NB_05_Silver_Claims.py             ← 10 quality rules + IsDenied + ClaimLagDays
-│   ├── NB_06_Silver_Appointments.py       ← 9 quality rules + IsNoShow + EfficiencyRatio
-│   ├── NB_07_Silver_DimDate.py            ← date spine from claims + appointments
-│   ├── NB_08_Gold_Dims.py                 ← dim_patient, dim_provider, dim_facility, dim_date
-│   └── NB_09_Gold_Facts.py                ← fact_claims + OPTIMIZE ZORDER
-├── data/
-│   ├── patients.csv                       ← 1,000 rows — realistic healthcare data
-│   ├── claims.csv                         ← 3,500 rows — CPT codes, ICD-10, payers
-│   ├── appointments.csv                   ← 2,800 rows — EHR appointment data
-│  
-└── screenshots/                           ← all screenshots listed above
-```
 
 
 
