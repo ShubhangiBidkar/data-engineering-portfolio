@@ -1,3 +1,31 @@
+from datetime import datetime
+from pyspark.sql import Row
+
+# Record start time — runs when notebook starts
+run_start     = datetime.utcnow()
+old_watermark = None  # will be overwritten in Cell 2
+new_watermark = None  # will be overwritten in the watermark update cell
+delta_count   = 0     # will be overwritten in the extract cell
+
+def log_run(status, rows=0, wm_after=None, error=None):
+    run_end  = datetime.utcnow()
+    duration = int((run_end - run_start).total_seconds())
+    spark.createDataFrame([Row(
+        pipeline_name    = "PL_Incremental_ShipmentLogs",
+        notebook_name    = "NB_Incremental_Upsert",
+        run_timestamp    = run_end,
+        status           = status,
+        rows_processed   = rows,
+        duration_seconds = duration,
+        watermark_before = old_watermark,
+        watermark_after  = wm_after,
+        error_message    = error,
+        notes            = None
+    )]).write.format("delta").mode("append").saveAsTable("pipeline_log")
+    print(f"Logged: {status} — {rows} rows — {duration}s")
+
+print(f"Notebook started: {run_start}")
+
 # ─────────────────────────────────────────────────────────────────────────────
 ## This notebook is called by the Fabric Data Factory pipeline
 ## The pipeline passes old_watermark as a parameter
@@ -156,3 +184,50 @@ print(f"  Records processed : {df_clean.count()}")
 print(f"  Records dropped   : {total_dropped}")
 print(f"  Silver table total: {final_count}")
 print(f"  Watermark moved   : {old_watermark}  →  {new_watermark}")
+
+
+from delta.tables import DeltaTable
+
+print("Running OPTIMIZE on ShipmentLogs_Silver...")
+
+spark.sql("""
+    OPTIMIZE ShipmentLogs_Silver
+    ZORDER BY (Status, OriginPort)
+""")
+
+print("OPTIMIZE complete ✅")
+
+# Check file stats after optimisation
+spark.sql("DESCRIBE DETAIL ShipmentLogs_Silver") \
+    .select("numFiles", "sizeInBytes", "numRows") \
+    .show(truncate=False)
+
+
+print("Running VACUUM on ShipmentLogs_Silver...")
+print("Retention: 168 hours (7 days) — preserves time travel capability")
+
+spark.sql("""
+    VACUUM ShipmentLogs_Silver RETAIN 168 HOURS
+""")
+
+print("VACUUM complete ✅")
+
+# Demonstrate time travel still works (DP-700 exam topic)
+print("\nTable history (last 3 versions):")
+spark.sql("DESCRIBE HISTORY ShipmentLogs_Silver LIMIT 3").show(truncate=False)
+
+# Query as it was yesterday — proves time travel intact
+from datetime import datetime, timedelta
+yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+print(f"\nRow count as of {yesterday} (time travel test):")
+spark.sql(f"""
+    SELECT COUNT(*) AS RowCount
+    FROM   ShipmentLogs_Silver TIMESTAMP AS OF '{yesterday}'
+""").show()
+
+
+log_run(
+    status   = "Success",
+    rows     = delta_count,
+    wm_after = new_watermark
+)
