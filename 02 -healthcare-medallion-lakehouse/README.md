@@ -66,6 +66,10 @@ Power BI Semantic Model → MediCore Dashboard (3 pages + drillthrough)
 <img width="1412" height="699" alt="image" src="https://github.com/user-attachments/assets/3821a973-2893-4ef2-b644-1b367d9c6892" />
 
 
+<img width="681" height="907" alt="image" src="https://github.com/user-attachments/assets/ed25f268-6ff1-410d-a319-f8763b24a9eb" />
+
+
+
 ---
 
 ## Key Technical Decisions
