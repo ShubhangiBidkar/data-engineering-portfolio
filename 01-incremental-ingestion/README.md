@@ -68,7 +68,8 @@ Shipment statuses update throughout the day. A plain INSERT creates duplicate ro
 
 
 
-![Pipeline Canvas](./screenshots/06_pipeline_canvas.png)
+<img width="1359" height="653" alt="06_pipeline_canvas" src="https://github.com/user-attachments/assets/4bc08e3d-5c73-4a7b-94ef-fe4b7fde26ec" />
+
 
 ---
 
@@ -88,25 +89,31 @@ Applied in `NB_Incremental_Upsert.py` before every UPSERT:
 ## Implementation Screenshots
 
 ### Watermark Control Table
-![Watermark Table](./screenshots/01_watermark_table.png)
+<img width="1263" height="952" alt="01_watermark_table" src="https://github.com/user-attachments/assets/04ee4b13-91b6-4f7b-b031-1b83139e9587" />
+
 
 ### Lookup Activity — Settings
-![Lookup Settings](./screenshots/02_lookup_settings.png)
+<img width="1318" height="997" alt="02_lookup_settings" src="https://github.com/user-attachments/assets/535c7ccd-1c97-47b3-a988-34c441b966b3" />
+
 
 ### Copy Activity — Source (Dynamic Watermark Query)
-![Copy Source](./screenshots/03_copy_source.png)
+<img width="1287" height="997" alt="03_copy_source" src="https://github.com/user-attachments/assets/f1a04f1b-2582-4e3d-93c8-cf5b500a3b42" />
+
 
 ### Copy Activity — Destination (Parquet Staging)
-![Copy Destination](./screenshots/04_copy_destination.png)
+<img width="1106" height="868" alt="04_copy_destination" src="https://github.com/user-attachments/assets/05de4401-bacf-4d37-931e-322b9b30d1d7" />
+
 
 ### PySpark Notebook — MERGE Code
-![Notebook MERGE](./screenshots/05_notebook_merge.png)
+<img width="871" height="646" alt="05_notebook_merge" src="https://github.com/user-attachments/assets/208b7f49-fc1c-48d2-ba7d-c6474b7ea71b" />
+
 
 ### Notebook output — Day 2 incremental run
-![Notebook Output](https://github.com/ShubhangiBidkar/data-engineering-portfolio/blob/main/01-incremental-ingestion/screenshots/08_notebook_output.png.png)
+<img width="1049" height="965" alt="08_notebook_output png" src="https://github.com/user-attachments/assets/09a3933c-16cc-4400-beed-afbf2dc07a7f" />
+
 
 ### Silver Table — 580 Rows in Lakehouse
-![Silver Table](./screenshots/07_silver_table.png)
+<img width="1321" height="1208" alt="07_silver_table" src="https://github.com/user-attachments/assets/8960539b-b75a-4d45-a8ea-70aed27fe18b" />
 
 
 ---
