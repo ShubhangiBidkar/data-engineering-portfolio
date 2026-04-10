@@ -189,7 +189,9 @@ One row per quarantined file. Data Activator designed to monitor this table.
 | Rerun safety | Full data loss risk | Idempotent — safe to rerun |
 
 ---
+## Screenshoots
 
+---
 
 ## Concepts Covered
 
