@@ -1,0 +1,801 @@
+ListingID,AgentName,PropertyType,City,State,Country,Bedrooms,Bathrooms,SqFt,ListingPrice,ListDate,Status,Description,URL,LastModified
+USA-00001,Dana Peterson,Villa,Vancouver,ON,Canada,1,1,5006,1215000,05/23/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00001,05/23/2022
+USA-00002,Christopher Warren,Single Family,Los Angeles,KS,USA,5,4,1020,280000,08/12/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00002,08/12/2022
+USA-00003,Joseph Moore,Condo,Chicago,OR,USA,6,6,7373,1109000,08/27/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00003,08/27/2023
+USA-00004,James Vega,Single Family,San Francisco,NY,USA,3,2,4027,4314000,12/11/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00004,12/11/2022
+USA-00005,James Vega,Single Family,San Francisco,NJ,USA,5,3,1211,3324000,07/04/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00005,07/04/2023
+USA-00006,Carolyn Vazquez,Townhouse,Houston,NM,USA,7,6,3650,3215000,02/16/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00006,02/16/2022
+USA-00007,David Nelson,Townhouse,Chicago,IA,USA,7,2,6727,1359000,10/13/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00007,10/13/2023
+USA-00008,Susan Hebert,Condo,Chicago,AZ,USA,6,3,1669,2800000,06/25/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00008,06/25/2022
+USA-00009,Kevin Wallace,Townhouse,Seattle,TN,USA,3,2,5813,3816000,03/05/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00009,03/05/2024
+USA-00010,Lindsey Stevens,Multi-Family,Houston,AS,USA,1,1,5655,1075000,05/27/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00010,05/27/2023
+USA-00011,James Vega,Townhouse,Houston,WI,USA,2,1,4804,3400000,03/15/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00011,03/15/2023
+USA-00012,Lindsey Stevens,Condo,Miami,LA,USA,5,4,1989,3438000,05/31/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00012,05/31/2024
+USA-00013,Mr. Jonathan Warner,Single Family,Toronto,ON,Canada,1,2,6752,2742000,04/25/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00013,04/25/2023
+USA-00014,Joseph Moore,Villa,Vancouver,ON,Canada,5,3,6073,635000,03/22/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00014,03/22/2023
+USA-00015,Lindsey Stevens,Penthouse,Denver,MH,USA,7,3,8817,4120000,10/03/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00015,10/03/2023
+USA-00016,Joseph Moore,Penthouse,Chicago,TN,USA,2,2,3146,2496000,03/08/2024,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00016,03/08/2024
+USA-00017,Susan Hebert,Single Family,Boston,AR,USA,1,1,6447,3972000,05/01/2024,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00017,05/01/2024
+USA-00018,Thomas Schultz,Condo,Toronto,ON,Canada,1,1,8462,3700000,02/18/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00018,02/18/2024
+USA-00019,Jill Gordon,Condo,Denver,OH,USA,2,2,7432,4345000,07/07/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00019,07/07/2023
+USA-00020,Susan Hebert,Condo,Seattle,ID,USA,6,6,6618,2056000,06/14/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00020,06/14/2023
+USA-00021,Susan Hebert,Single Family,San Francisco,RI,USA,1,1,4108,181000,12/26/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00021,12/26/2023
+USA-00022,Marcus Mckee,Penthouse,San Francisco,TN,USA,1,1,5062,3060000,08/08/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00022,08/08/2022
+USA-00023,Mark Powell,Multi-Family,Boston,ID,USA,2,2,7169,978000,04/10/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00023,04/10/2022
+USA-00024,Johnathan Day,Condo,Boston,KS,USA,7,1,2112,414000,01/16/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00024,01/16/2024
+USA-00025,Jeremy Burke,Multi-Family,Chicago,LA,USA,5,4,2796,1985000,10/13/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00025,10/13/2022
+USA-00026,Robert Simmons,Multi-Family,Los Angeles,PA,USA,1,1,2028,4180000,05/19/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00026,05/19/2024
+USA-00027,Zachary Le,Multi-Family,Chicago,GA,USA,7,7,1460,866000,01/03/2022,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00027,01/03/2022
+USA-00028,Kevin Wallace,Penthouse,Seattle,OH,USA,6,6,8473,823000,10/31/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00028,10/31/2022
+USA-00029,Lori Alvarado,Condo,New York,PA,USA,6,3,1436,368000,05/04/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00029,05/04/2023
+USA-00030,James Vega,Single Family,Denver,LA,USA,1,1,1622,2738000,11/23/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00030,11/23/2023
+USA-00031,Penny Estrada,Penthouse,Chicago,AR,USA,5,5,1151,2844000,03/06/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00031,03/06/2023
+USA-00032,Lindsey Stevens,Townhouse,Houston,ID,USA,2,3,5647,1188000,02/10/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00032,02/10/2023
+USA-00033,Jeremy Burke,Penthouse,San Francisco,AS,USA,7,2,652,2144000,07/31/2023,Under Contract,Stunning mountain views,https://blackwoodestates.com/listings/USA-00033,07/31/2023
+USA-00034,David Nelson,Multi-Family,Denver,NJ,USA,3,2,6218,3982000,09/08/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00034,09/08/2022
+USA-00035,Thomas Schultz,Townhouse,Montreal,ON,Canada,3,1,5405,4203000,04/17/2022,Under Contract,Prime city centre location,https://blackwoodestates.com/listings/USA-00035,04/17/2022
+USA-00036,Adam King,Condo,Los Angeles,NH,USA,6,5,3046,1335000,09/12/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00036,09/12/2023
+USA-00037,Kevin Wallace,Single Family,Denver,NV,USA,4,3,1332,551000,03/10/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00037,03/10/2023
+USA-00038,Mr. Jonathan Warner,Single Family,Miami,MT,USA,6,3,3147,3374000,07/19/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00038,07/19/2023
+USA-00039,Robert Simmons,Condo,Los Angeles,AR,USA,6,2,1090,3780000,08/20/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00039,08/20/2023
+USA-00040,Mark Powell,Penthouse,Houston,FM,USA,3,1,6362,1064000,09/13/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00040,09/13/2022
+USA-00041,Robert Simmons,Single Family,Toronto,ON,Canada,6,2,4378,3911000,03/30/2024,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00041,03/30/2024
+USA-00042,James Vega,Single Family,Montreal,ON,Canada,3,4,4565,1311000,03/17/2024,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00042,03/17/2024
+USA-00043,Susan Hebert,Single Family,Chicago,VA,USA,2,2,6228,1478000,03/25/2024,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00043,03/25/2024
+USA-00044,Lori Alvarado,Multi-Family,Seattle,CT,USA,3,3,1637,4356000,10/13/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00044,10/13/2022
+USA-00045,Christopher Warren,Multi-Family,San Francisco,MA,USA,1,1,4779,927000,09/29/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00045,09/29/2022
+USA-00046,Penny Estrada,Condo,Montreal,ON,Canada,7,6,7649,2787000,06/08/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00046,06/08/2023
+USA-00047,Marcus Mckee,Villa,New York,ND,USA,6,4,527,2412000,04/05/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00047,04/05/2024
+USA-00048,Marcus Mckee,Townhouse,San Francisco,NJ,USA,4,1,5909,2861000,11/11/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00048,11/11/2023
+USA-00049,Steven Reynolds,Multi-Family,Houston,MN,USA,6,4,5844,1900000,10/30/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00049,10/30/2022
+USA-00050,Cody Dunn,Condo,Vancouver,ON,Canada,6,2,5430,1916000,05/03/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00050,05/03/2024
+USA-00051,Lori Alvarado,Multi-Family,Toronto,ON,Canada,5,6,5779,2173000,03/29/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00051,03/29/2023
+USA-00052,Carolyn Vazquez,Condo,Vancouver,ON,Canada,1,2,8945,3038000,09/27/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00052,09/27/2023
+USA-00053,Christopher Warren,Single Family,Chicago,MA,USA,7,4,2914,256000,09/08/2022,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00053,09/08/2022
+USA-00054,Susan Hebert,Condo,Seattle,IA,USA,6,5,3685,3275000,01/29/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00054,01/29/2023
+USA-00055,Kevin Wallace,Penthouse,Los Angeles,TN,USA,7,7,4085,915000,12/14/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00055,12/14/2023
+USA-00056,Carolyn Vazquez,Multi-Family,Los Angeles,IN,USA,4,2,8112,3054000,07/27/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00056,07/27/2023
+USA-00057,Tina Moore MD,Townhouse,Montreal,ON,Canada,5,4,7805,4053000,02/01/2024,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00057,02/01/2024
+USA-00058,Susan Hebert,Townhouse,Vancouver,ON,Canada,3,4,4419,1344000,03/21/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00058,03/21/2022
+USA-00059,Jill Gordon,Condo,San Francisco,CA,USA,5,1,2767,806000,01/28/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00059,01/28/2023
+USA-00060,James Vega,Penthouse,Seattle,WY,USA,4,3,8133,1959000,07/31/2022,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00060,07/31/2022
+USA-00061,Robert Simmons,Penthouse,Toronto,ON,Canada,4,4,596,4251000,11/02/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00061,11/02/2022
+USA-00062,Adam King,Villa,Toronto,ON,Canada,2,2,4095,1337000,05/13/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00062,05/13/2023
+USA-00063,James Vega,Penthouse,Montreal,ON,Canada,2,2,2591,4416000,07/01/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00063,07/01/2023
+USA-00064,Zachary Le,Multi-Family,Vancouver,ON,Canada,1,1,7522,740000,04/18/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00064,04/18/2023
+USA-00065,Robert Simmons,Townhouse,Chicago,PW,USA,4,3,6029,3461000,01/24/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00065,01/24/2023
+USA-00066,Lindsey Stevens,Single Family,Boston,TN,USA,1,1,6233,1125000,03/12/2022,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00066,03/12/2022
+USA-00067,Penny Estrada,Condo,Chicago,CO,USA,2,1,2996,1188000,04/30/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00067,04/30/2023
+USA-00068,Carolyn Vazquez,Condo,Montreal,ON,Canada,3,3,3249,2786000,02/05/2024,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00068,02/05/2024
+USA-00069,Jill Gordon,Condo,Los Angeles,IN,USA,5,1,5611,2655000,01/20/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00069,01/20/2023
+USA-00070,Dana Peterson,Penthouse,Toronto,ON,Canada,6,7,4478,593000,03/02/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00070,03/02/2024
+USA-00071,Lori Alvarado,Villa,Toronto,ON,Canada,7,1,6188,2467000,11/09/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00071,11/09/2023
+USA-00072,Tina Moore MD,Villa,New York,IL,USA,7,7,8531,609000,01/06/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00072,01/06/2023
+USA-00073,Tina Moore MD,Multi-Family,Seattle,CA,USA,2,3,4925,2829000,07/06/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00073,07/06/2023
+USA-00074,Tina Moore MD,Penthouse,Houston,ID,USA,3,2,1919,1363000,04/07/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00074,04/07/2023
+USA-00075,Steven Reynolds,Townhouse,Vancouver,ON,Canada,4,3,970,2300000,11/29/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00075,11/29/2022
+USA-00076,Marcus Mckee,Multi-Family,San Francisco,PW,USA,3,3,666,2397000,07/15/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00076,07/15/2022
+USA-00077,Joseph Moore,Single Family,Denver,AS,USA,7,4,8300,2960000,05/18/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00077,05/18/2023
+USA-00078,Lori Alvarado,Townhouse,Chicago,WV,USA,4,2,5516,3038000,01/13/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00078,01/13/2023
+USA-00079,Susan Hebert,Single Family,Montreal,ON,Canada,5,3,6264,3207000,10/05/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00079,10/05/2022
+USA-00080,Penny Estrada,Penthouse,San Francisco,UT,USA,1,1,3638,1091000,05/11/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00080,05/11/2023
+USA-00081,Jill Gordon,Penthouse,Houston,OH,USA,1,1,5353,1140000,07/03/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00081,07/03/2022
+USA-00082,Carolyn Vazquez,Multi-Family,Houston,HI,USA,1,1,5286,3184000,05/10/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00082,05/10/2022
+USA-00083,Kevin Wallace,Townhouse,New York,FL,USA,5,3,8190,2232000,12/15/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00083,12/15/2022
+USA-00084,Kevin Wallace,Condo,Los Angeles,MH,USA,7,2,7065,2289000,08/14/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00084,08/14/2023
+USA-00085,Christopher Warren,Penthouse,Toronto,ON,Canada,3,1,4566,665000,02/22/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00085,02/22/2024
+USA-00086,Cody Dunn,Penthouse,Denver,DC,USA,4,4,7753,1443000,08/26/2023,Under Contract,Exclusive gated community,https://blackwoodestates.com/listings/USA-00086,08/26/2023
+USA-00087,Zachary Le,Villa,New York,VA,USA,5,6,2125,4272000,08/01/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00087,08/01/2022
+USA-00088,Christopher Warren,Multi-Family,Miami,ND,USA,2,1,1729,831000,02/23/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00088,02/23/2023
+USA-00089,Susan Hebert,Townhouse,New York,WV,USA,2,2,5132,3208000,04/10/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00089,04/10/2023
+USA-00090,Zachary Le,Condo,Vancouver,ON,Canada,7,4,7465,649000,08/19/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00090,08/19/2022
+USA-00091,Jill Gordon,Multi-Family,New York,DE,USA,2,2,5228,2060000,04/25/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00091,04/25/2023
+USA-00092,Marcus Mckee,Townhouse,Denver,MH,USA,5,4,7672,500000,02/10/2022,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00092,02/10/2022
+USA-00093,Penny Estrada,Single Family,Houston,AR,USA,1,1,4250,4334000,05/06/2024,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00093,05/06/2024
+USA-00094,David Nelson,Penthouse,Toronto,ON,Canada,1,1,8208,2407000,03/29/2023,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00094,03/29/2023
+USA-00095,Dana Peterson,Single Family,Vancouver,ON,Canada,7,8,1994,2195000,02/23/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00095,02/23/2023
+USA-00096,Mr. Jonathan Warner,Single Family,San Francisco,SC,USA,4,4,5222,3032000,02/15/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00096,02/15/2023
+USA-00097,Lori Alvarado,Single Family,Los Angeles,WY,USA,3,3,5796,654000,03/02/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00097,03/02/2024
+USA-00098,Lindsey Stevens,Multi-Family,Boston,VA,USA,4,1,3573,2405000,09/30/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00098,09/30/2023
+USA-00099,Joseph Moore,Villa,Chicago,DE,USA,3,2,5219,2056000,12/17/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00099,12/17/2023
+USA-00100,Susan Hebert,Single Family,Chicago,AZ,USA,6,2,5591,2546000,07/20/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00100,07/20/2023
+USA-00101,Jill Gordon,Townhouse,Los Angeles,NC,USA,6,7,3022,2318000,01/04/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00101,01/04/2024
+USA-00102,Christopher Warren,Penthouse,Boston,SD,USA,4,2,7983,2548000,01/28/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00102,01/28/2023
+USA-00103,Joseph Moore,Townhouse,Los Angeles,MO,USA,3,4,6068,4214000,06/04/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00103,06/04/2023
+USA-00104,Mark Powell,Townhouse,Toronto,ON,Canada,5,6,8522,3914000,04/03/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00104,04/03/2023
+USA-00105,James Vega,Condo,Denver,PW,USA,4,4,5772,3933000,12/16/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00105,12/16/2023
+USA-00106,Lindsey Stevens,Condo,New York,VT,USA,3,4,6746,1829000,11/11/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00106,11/11/2023
+USA-00107,Lori Alvarado,Multi-Family,New York,WA,USA,2,3,5939,3933000,05/15/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00107,05/15/2024
+USA-00108,Adam King,Penthouse,Montreal,ON,Canada,2,2,3029,476000,03/11/2024,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00108,03/11/2024
+USA-00109,Carolyn Vazquez,Multi-Family,Vancouver,ON,Canada,1,2,6726,4301000,10/04/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00109,10/04/2023
+USA-00110,Marcus Mckee,Single Family,New York,PW,USA,5,1,4346,2896000,10/22/2022,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00110,10/22/2022
+USA-00111,Kevin Wallace,Townhouse,Los Angeles,KY,USA,7,2,7769,874000,11/03/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00111,11/03/2022
+USA-00112,Dana Peterson,Condo,Houston,IA,USA,3,3,7556,783000,06/28/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00112,06/28/2023
+USA-00113,Tina Moore MD,Villa,Miami,TN,USA,1,2,4445,2315000,08/21/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00113,08/21/2023
+USA-00114,Jeremy Burke,Multi-Family,Boston,IN,USA,3,1,8122,4070000,11/25/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00114,11/25/2023
+USA-00115,James Vega,Multi-Family,Toronto,ON,Canada,3,4,4597,2137000,11/06/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00115,11/06/2022
+USA-00116,Dana Peterson,Multi-Family,Chicago,UT,USA,4,5,6381,2650000,12/18/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00116,12/18/2023
+USA-00117,Cody Dunn,Condo,New York,KS,USA,5,6,1303,4111000,02/03/2024,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00117,02/03/2024
+USA-00118,Carolyn Vazquez,Villa,San Francisco,PR,USA,2,3,3615,2851000,11/26/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00118,11/26/2023
+USA-00119,Marcus Mckee,Condo,Vancouver,ON,Canada,1,1,5561,3580000,02/04/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00119,02/04/2022
+USA-00120,Mark Powell,Penthouse,Houston,TX,USA,3,4,3377,1023000,03/16/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00120,03/16/2024
+USA-00121,Cody Dunn,Villa,Houston,DC,USA,7,3,4710,4126000,05/09/2023,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00121,05/09/2023
+USA-00122,Marcus Mckee,Villa,Los Angeles,MN,USA,4,1,2806,3431000,08/20/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00122,08/20/2022
+USA-00123,Mark Powell,Villa,Denver,PW,USA,3,1,6964,211000,07/04/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00123,07/04/2023
+USA-00124,Mr. Jonathan Warner,Townhouse,Toronto,ON,Canada,4,3,2275,3086000,04/28/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00124,04/28/2023
+USA-00125,Johnathan Day,Condo,Chicago,GA,USA,6,1,8106,4106000,11/06/2022,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00125,11/06/2022
+USA-00126,Tina Moore MD,Townhouse,New York,LA,USA,3,4,2402,573000,07/05/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00126,07/05/2023
+USA-00127,Erin Butler,Penthouse,Seattle,ND,USA,5,6,3031,4002000,11/02/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00127,11/02/2023
+USA-00128,Johnathan Day,Villa,Houston,IA,USA,1,2,4059,2079000,08/30/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00128,08/30/2022
+USA-00129,Tina Moore MD,Single Family,Denver,ND,USA,6,3,1492,1882000,07/14/2022,Under Contract,Stunning mountain views,https://blackwoodestates.com/listings/USA-00129,07/14/2022
+USA-00130,Thomas Schultz,Penthouse,Vancouver,ON,Canada,6,5,849,370000,12/08/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00130,12/08/2022
+USA-00131,Thomas Schultz,Penthouse,Los Angeles,MN,USA,7,4,4038,3687000,08/27/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00131,08/27/2022
+USA-00132,Dana Peterson,Single Family,Houston,HI,USA,7,3,2629,2500000,03/28/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00132,03/28/2024
+USA-00133,Marcus Mckee,Multi-Family,New York,SC,USA,3,2,5804,219000,09/29/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00133,09/29/2022
+USA-00134,Johnathan Day,Multi-Family,Los Angeles,MT,USA,6,1,8302,2100000,01/06/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00134,01/06/2023
+USA-00135,Erin Butler,Multi-Family,Chicago,OK,USA,5,1,5441,2142000,02/01/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00135,02/01/2022
+USA-00136,Thomas Schultz,Single Family,Vancouver,ON,Canada,1,2,7767,470000,03/24/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00136,03/24/2022
+USA-00137,Tina Moore MD,Penthouse,Houston,OK,USA,5,6,5827,1807000,09/04/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00137,09/04/2023
+USA-00138,Tina Moore MD,Multi-Family,Seattle,CA,USA,1,1,4022,2021000,08/22/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00138,08/22/2022
+USA-00139,Thomas Schultz,Villa,Montreal,ON,Canada,1,2,7492,1509000,09/19/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00139,09/19/2022
+USA-00140,Thomas Schultz,Penthouse,Los Angeles,SD,USA,1,1,2027,2029000,02/02/2024,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00140,02/02/2024
+USA-00141,Dana Peterson,Multi-Family,Toronto,ON,Canada,5,5,5900,3065000,02/25/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00141,02/25/2023
+USA-00142,Dana Peterson,Multi-Family,Houston,CA,USA,5,3,6261,601000,06/04/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00142,06/04/2023
+USA-00143,Robert Simmons,Penthouse,Los Angeles,MP,USA,3,3,2382,3467000,08/11/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00143,08/11/2023
+USA-00144,Zachary Le,Single Family,Toronto,ON,Canada,6,6,930,2799000,11/05/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00144,11/05/2023
+USA-00145,Thomas Schultz,Penthouse,Houston,FL,USA,6,7,5562,4159000,12/26/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00145,12/26/2022
+USA-00146,Robert Simmons,Multi-Family,Los Angeles,FM,USA,2,3,1002,549000,06/28/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00146,06/28/2023
+USA-00147,Kevin Wallace,Condo,Miami,AK,USA,3,3,5814,3529000,08/05/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00147,08/05/2023
+USA-00148,Tina Moore MD,Multi-Family,Toronto,ON,Canada,1,1,4958,2078000,03/11/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00148,03/11/2023
+USA-00149,Penny Estrada,Multi-Family,Chicago,DC,USA,7,2,6155,2020000,10/18/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00149,10/18/2022
+USA-00150,Steven Reynolds,Townhouse,Vancouver,ON,Canada,3,1,4112,1869000,09/06/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00150,09/06/2023
+USA-00151,Robert Simmons,Condo,Miami,SC,USA,7,5,5242,1577000,01/08/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00151,01/08/2022
+USA-00152,Mark Powell,Single Family,Seattle,WA,USA,5,6,4270,2326000,05/03/2024,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00152,05/03/2024
+USA-00153,Penny Estrada,Multi-Family,Montreal,ON,Canada,1,2,807,2150000,03/21/2022,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00153,03/21/2022
+USA-00154,Adam King,Condo,Seattle,ID,USA,6,6,7343,1409000,02/19/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00154,02/19/2023
+USA-00155,Penny Estrada,Multi-Family,Boston,IA,USA,7,6,1943,2050000,04/19/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00155,04/19/2022
+USA-00156,Lori Alvarado,Villa,Los Angeles,NJ,USA,4,3,6062,1114000,03/08/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00156,03/08/2024
+USA-00157,Thomas Schultz,Condo,Denver,VA,USA,5,2,6224,1677000,04/18/2024,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00157,04/18/2024
+USA-00158,Jeremy Burke,Condo,Miami,CO,USA,3,2,3342,2770000,02/18/2024,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00158,02/18/2024
+USA-00159,Tina Moore MD,Single Family,Boston,MA,USA,7,8,5795,3909000,10/05/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00159,10/05/2023
+USA-00160,Cody Dunn,Multi-Family,Boston,PR,USA,6,3,5000,2723000,12/27/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00160,12/27/2022
+USA-00161,Christopher Warren,Penthouse,New York,NE,USA,1,2,5203,484000,05/25/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00161,05/25/2024
+USA-00162,Steven Reynolds,Townhouse,Boston,VT,USA,5,5,1172,2106000,04/09/2024,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00162,04/09/2024
+USA-00163,Adam King,Villa,Boston,MA,USA,5,2,1513,2110000,04/10/2024,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00163,04/10/2024
+USA-00164,Lori Alvarado,Penthouse,Denver,AR,USA,6,2,1141,1228000,03/25/2023,Under Contract,Exclusive gated community,https://blackwoodestates.com/listings/USA-00164,03/25/2023
+USA-00165,Christopher Warren,Single Family,Miami,MP,USA,3,3,5134,1835000,03/04/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00165,03/04/2024
+USA-00166,Christopher Warren,Condo,Los Angeles,AZ,USA,3,1,6833,1386000,01/12/2024,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00166,01/12/2024
+USA-00167,Jill Gordon,Villa,Los Angeles,KY,USA,5,6,2817,4138000,11/14/2022,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00167,11/14/2022
+USA-00168,Adam King,Condo,Miami,NV,USA,5,6,1888,1497000,01/21/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00168,01/21/2023
+USA-00169,David Nelson,Condo,Los Angeles,MS,USA,6,6,7437,2362000,01/19/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00169,01/19/2022
+USA-00170,Johnathan Day,Penthouse,Boston,VI,USA,2,1,2753,824000,10/30/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00170,10/30/2022
+USA-00171,James Vega,Condo,Montreal,ON,Canada,5,1,6017,3962000,09/25/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00171,09/25/2023
+USA-00172,Susan Hebert,Multi-Family,Miami,IA,USA,7,3,7670,340000,01/09/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00172,01/09/2023
+USA-00173,Erin Butler,Condo,Houston,PW,USA,7,8,4333,2473000,11/13/2022,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00173,11/13/2022
+USA-00174,Lori Alvarado,Multi-Family,Vancouver,ON,Canada,5,4,8064,3497000,03/07/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00174,03/07/2024
+USA-00175,Mr. Jonathan Warner,Single Family,Chicago,HI,USA,7,3,4596,377000,05/08/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00175,05/08/2023
+USA-00176,Robert Simmons,Single Family,Los Angeles,NY,USA,3,1,3126,1337000,06/10/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00176,06/10/2023
+USA-00177,James Vega,Single Family,Boston,TN,USA,3,1,7297,382000,05/30/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00177,05/30/2023
+USA-00178,Thomas Schultz,Condo,Chicago,WV,USA,1,2,2123,3800000,10/28/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00178,10/28/2023
+USA-00179,Joseph Moore,Single Family,Houston,NE,USA,7,8,2773,3451000,04/26/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00179,04/26/2023
+USA-00180,Johnathan Day,Single Family,Houston,MP,USA,2,1,7434,634000,10/23/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00180,10/23/2022
+USA-00181,Christopher Warren,Penthouse,Seattle,IA,USA,6,7,7989,423000,05/06/2024,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00181,05/06/2024
+USA-00182,Christopher Warren,Townhouse,Vancouver,ON,Canada,5,5,4463,3276000,10/26/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00182,10/26/2022
+USA-00183,Lori Alvarado,Penthouse,Toronto,ON,Canada,4,2,1902,2427000,01/05/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00183,01/05/2023
+USA-00184,Mark Powell,Townhouse,Denver,MA,USA,5,1,6897,3949000,02/14/2022,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00184,02/14/2022
+USA-00185,Carolyn Vazquez,Penthouse,San Francisco,AK,USA,7,2,6149,1199000,11/04/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00185,11/04/2023
+USA-00186,Dana Peterson,Multi-Family,Miami,MP,USA,1,2,6046,3689000,06/29/2022,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00186,06/29/2022
+USA-00187,Steven Reynolds,Single Family,Vancouver,ON,Canada,2,1,1533,3265000,04/14/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00187,04/14/2023
+USA-00188,Zachary Le,Single Family,New York,ND,USA,3,3,8944,1882000,04/14/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00188,04/14/2024
+USA-00189,James Vega,Villa,Houston,PA,USA,3,1,5938,1338000,03/29/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00189,03/29/2024
+USA-00190,Lori Alvarado,Townhouse,Seattle,SC,USA,3,2,8629,3160000,01/12/2023,Under Contract,Prime city centre location,https://blackwoodestates.com/listings/USA-00190,01/12/2023
+USA-00191,Cody Dunn,Townhouse,Montreal,ON,Canada,4,1,7555,2771000,04/22/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00191,04/22/2024
+USA-00192,Jill Gordon,Multi-Family,Los Angeles,NM,USA,3,3,5521,2090000,01/05/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00192,01/05/2024
+USA-00193,Jeremy Burke,Villa,Boston,DC,USA,1,2,7626,1344000,03/21/2024,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00193,03/21/2024
+USA-00194,Dana Peterson,Multi-Family,San Francisco,MD,USA,5,6,3121,4295000,05/27/2022,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00194,05/27/2022
+USA-00195,Thomas Schultz,Villa,Miami,OR,USA,1,1,6501,1725000,08/04/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00195,08/04/2023
+USA-00196,Adam King,Villa,San Francisco,AZ,USA,3,4,1759,2647000,06/27/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00196,06/27/2023
+USA-00197,Johnathan Day,Townhouse,Chicago,MT,USA,1,1,3548,2321000,02/01/2023,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00197,02/01/2023
+USA-00198,Thomas Schultz,Single Family,Montreal,ON,Canada,4,2,5178,3169000,05/18/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00198,05/18/2023
+USA-00199,Dana Peterson,Townhouse,Miami,AL,USA,6,4,1938,3676000,05/15/2024,Under Contract,Prime city centre location,https://blackwoodestates.com/listings/USA-00199,05/15/2024
+USA-00200,Jill Gordon,Villa,Denver,AL,USA,5,3,5414,3853000,12/30/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00200,12/30/2023
+USA-00201,Erin Butler,Single Family,San Francisco,DE,USA,5,2,2488,4435000,03/22/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00201,03/22/2024
+USA-00202,Jeremy Burke,Single Family,Denver,CO,USA,5,3,8157,3646000,07/19/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00202,07/19/2023
+USA-00203,Penny Estrada,Single Family,Seattle,IN,USA,6,6,8342,2437000,02/27/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00203,02/27/2024
+USA-00204,Carolyn Vazquez,Penthouse,San Francisco,MI,USA,6,1,7872,2176000,06/14/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00204,06/14/2023
+USA-00205,Lori Alvarado,Condo,Miami,TX,USA,7,3,7588,2337000,02/26/2022,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00205,02/26/2022
+USA-00206,Jeremy Burke,Townhouse,Miami,NY,USA,2,2,4194,1655000,06/16/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00206,06/16/2023
+USA-00207,Lori Alvarado,Villa,Vancouver,ON,Canada,5,3,2550,2869000,09/22/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00207,09/22/2023
+USA-00208,Adam King,Penthouse,Toronto,ON,Canada,5,2,3304,3015000,01/08/2024,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00208,01/08/2024
+USA-00209,Christopher Warren,Villa,New York,VT,USA,1,1,4836,2982000,02/25/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00209,02/25/2024
+USA-00210,Dana Peterson,Multi-Family,Boston,AS,USA,6,5,5245,2942000,11/06/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00210,11/06/2022
+USA-00211,Adam King,Penthouse,Boston,NC,USA,1,1,3089,2062000,05/11/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00211,05/11/2023
+USA-00212,Lori Alvarado,Penthouse,San Francisco,ND,USA,7,6,6158,4393000,05/14/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00212,05/14/2022
+USA-00213,Kevin Wallace,Townhouse,San Francisco,CA,USA,2,2,2507,1314000,09/11/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00213,09/11/2022
+USA-00214,Steven Reynolds,Condo,Toronto,ON,Canada,4,2,3116,3689000,08/15/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00214,08/15/2023
+USA-00215,Lori Alvarado,Multi-Family,Denver,NH,USA,4,4,5555,2314000,04/03/2022,Under Contract,Stunning mountain views,https://blackwoodestates.com/listings/USA-00215,04/03/2022
+USA-00216,Lindsey Stevens,Villa,Chicago,WA,USA,5,3,1297,370000,05/22/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00216,05/22/2023
+USA-00217,Carolyn Vazquez,Multi-Family,Houston,IA,USA,5,1,2261,2025000,09/28/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00217,09/28/2022
+USA-00218,Lori Alvarado,Multi-Family,New York,CA,USA,4,1,3689,1727000,10/23/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00218,10/23/2022
+USA-00219,Adam King,Penthouse,Houston,OR,USA,7,2,2608,4392000,02/08/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00219,02/08/2023
+USA-00220,Thomas Schultz,Villa,Miami,NE,USA,2,3,8841,1896000,02/11/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00220,02/11/2022
+USA-00221,Christopher Warren,Townhouse,Boston,AL,USA,5,4,2940,2787000,06/12/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00221,06/12/2023
+USA-00222,Mr. Jonathan Warner,Multi-Family,Seattle,PA,USA,5,6,5402,2733000,06/04/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00222,06/04/2023
+USA-00223,Penny Estrada,Townhouse,Houston,VT,USA,4,1,6535,1591000,04/23/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00223,04/23/2022
+USA-00224,Lori Alvarado,Villa,Toronto,ON,Canada,4,3,4228,3288000,08/21/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00224,08/21/2023
+USA-00225,Joseph Moore,Multi-Family,Seattle,NE,USA,2,3,4468,287000,12/19/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00225,12/19/2023
+USA-00226,Erin Butler,Villa,Seattle,GA,USA,2,2,3840,1935000,03/04/2024,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00226,03/04/2024
+USA-00227,James Vega,Townhouse,Montreal,ON,Canada,2,3,3897,2590000,11/10/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00227,11/10/2023
+USA-00228,Jill Gordon,Townhouse,Boston,MN,USA,5,3,6304,3090000,01/09/2024,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00228,01/09/2024
+USA-00229,Cody Dunn,Townhouse,Boston,IA,USA,2,1,5071,2578000,08/19/2022,Under Contract,Stunning mountain views,https://blackwoodestates.com/listings/USA-00229,08/19/2022
+USA-00230,Marcus Mckee,Townhouse,Montreal,ON,Canada,6,4,5694,2237000,07/28/2023,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00230,07/28/2023
+USA-00231,Carolyn Vazquez,Condo,Los Angeles,PA,USA,5,6,6720,4047000,02/09/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00231,02/09/2023
+USA-00232,Erin Butler,Condo,New York,GU,USA,3,1,6174,4169000,11/03/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00232,11/03/2023
+USA-00233,Susan Hebert,Single Family,Denver,AL,USA,3,3,2749,625000,01/29/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00233,01/29/2024
+USA-00234,Johnathan Day,Villa,Chicago,WA,USA,6,2,1360,586000,12/05/2022,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00234,12/05/2022
+USA-00235,Steven Reynolds,Townhouse,New York,MH,USA,5,2,7166,2990000,05/03/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00235,05/03/2023
+USA-00236,Marcus Mckee,Single Family,Houston,OK,USA,6,1,1965,2987000,08/26/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00236,08/26/2022
+USA-00237,David Nelson,Villa,Seattle,WI,USA,7,3,1095,4488000,02/11/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00237,02/11/2023
+USA-00238,Lindsey Stevens,Penthouse,New York,SC,USA,1,2,2258,4189000,12/10/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00238,12/10/2022
+USA-00239,David Nelson,Villa,Boston,NC,USA,2,3,8168,1337000,04/08/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00239,04/08/2024
+USA-00240,Dana Peterson,Condo,Vancouver,ON,Canada,3,2,730,3354000,03/20/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00240,03/20/2024
+USA-00241,Johnathan Day,Condo,Toronto,ON,Canada,7,7,7507,2391000,03/30/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00241,03/30/2022
+USA-00242,Zachary Le,Townhouse,Boston,MT,USA,3,2,611,1284000,08/30/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00242,08/30/2022
+USA-00243,Kevin Wallace,Villa,Toronto,ON,Canada,6,5,687,1288000,01/04/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00243,01/04/2023
+USA-00244,Jill Gordon,Single Family,Boston,IN,USA,3,2,7142,3134000,12/22/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00244,12/22/2023
+USA-00245,Marcus Mckee,Penthouse,San Francisco,TX,USA,5,2,4090,4315000,05/05/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00245,05/05/2023
+USA-00246,Steven Reynolds,Condo,Seattle,VT,USA,6,5,8214,3444000,04/01/2024,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00246,04/01/2024
+USA-00247,Mr. Jonathan Warner,Penthouse,Los Angeles,CT,USA,5,4,6427,490000,08/01/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00247,08/01/2023
+USA-00248,Dana Peterson,Condo,Toronto,ON,Canada,5,2,3195,1577000,06/17/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00248,06/17/2023
+USA-00249,Penny Estrada,Single Family,Boston,KS,USA,1,2,1411,2122000,06/10/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00249,06/10/2023
+USA-00250,Joseph Moore,Villa,Boston,SC,USA,6,7,5549,3296000,02/10/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00250,02/10/2023
+USA-00251,Kevin Wallace,Single Family,Toronto,ON,Canada,1,1,7441,1649000,03/07/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00251,03/07/2022
+USA-00252,Marcus Mckee,Villa,New York,VA,USA,3,4,3448,3495000,02/24/2024,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00252,02/24/2024
+USA-00253,Mr. Jonathan Warner,Condo,San Francisco,MH,USA,4,4,6684,1784000,12/01/2023,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00253,12/01/2023
+USA-00254,Joseph Moore,Single Family,Los Angeles,CA,USA,2,3,6939,2450000,01/16/2024,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00254,01/16/2024
+USA-00255,Tina Moore MD,Townhouse,Boston,NM,USA,6,6,7448,2464000,04/23/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00255,04/23/2024
+USA-00256,Carolyn Vazquez,Single Family,Houston,AS,USA,2,3,2348,290000,11/08/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00256,11/08/2023
+USA-00257,Kevin Wallace,Condo,Chicago,PW,USA,1,1,1050,2092000,11/20/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00257,11/20/2023
+USA-00258,Lori Alvarado,Townhouse,Seattle,MN,USA,4,2,4059,3432000,03/05/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00258,03/05/2024
+USA-00259,Lori Alvarado,Condo,Montreal,ON,Canada,5,3,5753,1181000,05/27/2022,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00259,05/27/2022
+USA-00260,Kevin Wallace,Townhouse,Houston,NV,USA,3,1,3369,2873000,03/14/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00260,03/14/2023
+USA-00261,Mr. Jonathan Warner,Multi-Family,Denver,TX,USA,3,4,7188,799000,01/21/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00261,01/21/2023
+USA-00262,Robert Simmons,Penthouse,Chicago,NY,USA,3,2,8086,4129000,07/30/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00262,07/30/2023
+USA-00263,Tina Moore MD,Townhouse,Miami,NY,USA,4,2,4677,1035000,10/25/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00263,10/25/2023
+USA-00264,Christopher Warren,Single Family,Denver,MN,USA,6,7,3620,374000,01/22/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00264,01/22/2023
+USA-00265,Joseph Moore,Condo,Chicago,KS,USA,7,4,8354,1059000,12/07/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00265,12/07/2022
+USA-00266,Susan Hebert,Penthouse,Montreal,ON,Canada,1,2,4474,3176000,12/22/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00266,12/22/2023
+USA-00267,Erin Butler,Multi-Family,Houston,VT,USA,4,4,6386,1492000,01/04/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00267,01/04/2023
+USA-00268,Susan Hebert,Villa,Montreal,ON,Canada,4,3,3828,1763000,02/28/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00268,02/28/2023
+USA-00269,Penny Estrada,Condo,New York,HI,USA,3,4,5336,813000,12/04/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00269,12/04/2022
+USA-00270,Marcus Mckee,Villa,Denver,NC,USA,6,6,6030,1269000,04/21/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00270,04/21/2024
+USA-00271,David Nelson,Penthouse,Boston,UT,USA,2,3,6270,886000,01/08/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00271,01/08/2024
+USA-00272,Lindsey Stevens,Condo,Denver,LA,USA,1,1,1294,3475000,02/27/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00272,02/27/2023
+USA-00273,Lindsey Stevens,Villa,Montreal,ON,Canada,2,1,4083,2350000,01/18/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00273,01/18/2023
+USA-00274,Joseph Moore,Penthouse,Boston,MD,USA,6,4,757,179000,07/19/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00274,07/19/2023
+USA-00275,David Nelson,Single Family,Denver,OK,USA,3,1,8728,3687000,11/22/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00275,11/22/2023
+USA-00276,Zachary Le,Multi-Family,Denver,DE,USA,2,1,3644,2846000,09/16/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00276,09/16/2022
+USA-00277,Jeremy Burke,Villa,San Francisco,MS,USA,4,4,4484,4458000,08/20/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00277,08/20/2022
+USA-00278,Jill Gordon,Condo,Los Angeles,AS,USA,4,4,6679,2554000,02/27/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00278,02/27/2022
+USA-00279,Lori Alvarado,Single Family,Boston,CA,USA,7,7,5927,2611000,05/28/2024,Under Contract,Stunning mountain views,https://blackwoodestates.com/listings/USA-00279,05/28/2024
+USA-00280,Zachary Le,Penthouse,Chicago,FL,USA,7,8,4941,353000,03/18/2022,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00280,03/18/2022
+USA-00281,Carolyn Vazquez,Villa,Vancouver,ON,Canada,1,1,5652,218000,08/01/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00281,08/01/2022
+USA-00282,Mr. Jonathan Warner,Townhouse,Los Angeles,ID,USA,3,2,4439,2615000,05/19/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00282,05/19/2024
+USA-00283,Robert Simmons,Condo,Montreal,ON,Canada,2,3,1784,2328000,12/21/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00283,12/21/2022
+USA-00284,Zachary Le,Multi-Family,San Francisco,NJ,USA,5,5,6999,4365000,12/01/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00284,12/01/2022
+USA-00285,Jeremy Burke,Penthouse,Chicago,MH,USA,3,4,7575,958000,08/23/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00285,08/23/2023
+USA-00286,Lindsey Stevens,Condo,Chicago,IA,USA,6,1,1844,1316000,01/25/2023,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00286,01/25/2023
+USA-00287,Carolyn Vazquez,Townhouse,San Francisco,NC,USA,3,1,1999,173000,11/12/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00287,11/12/2022
+USA-00288,Johnathan Day,Single Family,Miami,CT,USA,1,1,7561,2102000,07/23/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00288,07/23/2023
+USA-00289,James Vega,Single Family,San Francisco,ID,USA,5,1,5815,3907000,01/13/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00289,01/13/2022
+USA-00290,Cody Dunn,Townhouse,Chicago,MS,USA,5,5,3278,3131000,06/23/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00290,06/23/2022
+USA-00291,Jeremy Burke,Townhouse,Miami,PA,USA,1,1,7621,1350000,11/03/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00291,11/03/2022
+USA-00292,Thomas Schultz,Townhouse,Chicago,FM,USA,6,6,8623,2733000,07/20/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00292,07/20/2022
+USA-00293,Lindsey Stevens,Penthouse,Seattle,UT,USA,3,4,5899,2065000,03/17/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00293,03/17/2023
+USA-00294,Cody Dunn,Villa,Houston,PR,USA,3,2,8348,1517000,02/12/2023,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00294,02/12/2023
+USA-00295,Mark Powell,Single Family,Toronto,ON,Canada,7,4,5839,1786000,04/16/2024,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00295,04/16/2024
+USA-00296,Marcus Mckee,Multi-Family,Chicago,ME,USA,5,5,3447,3115000,07/18/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00296,07/18/2023
+USA-00297,Dana Peterson,Multi-Family,Boston,DE,USA,7,5,1633,3713000,03/25/2024,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00297,03/25/2024
+USA-00298,James Vega,Single Family,Vancouver,ON,Canada,3,2,4639,3015000,01/03/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00298,01/03/2024
+USA-00299,Kevin Wallace,Townhouse,Toronto,ON,Canada,4,5,7066,2474000,12/10/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00299,12/10/2023
+USA-00300,David Nelson,Villa,Toronto,ON,Canada,6,1,2291,3495000,11/05/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00300,11/05/2023
+USA-00301,Robert Simmons,Single Family,New York,SD,USA,5,6,7047,4356000,12/06/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00301,12/06/2022
+USA-00302,Penny Estrada,Condo,Los Angeles,MO,USA,3,2,8866,3399000,07/26/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00302,07/26/2023
+USA-00303,Cody Dunn,Multi-Family,San Francisco,MD,USA,4,4,8699,806000,01/26/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00303,01/26/2022
+USA-00304,Lori Alvarado,Multi-Family,Los Angeles,MA,USA,7,3,6207,1507000,04/12/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00304,04/12/2023
+USA-00305,Jill Gordon,Single Family,Boston,VT,USA,1,2,7912,1537000,11/04/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00305,11/04/2022
+USA-00306,David Nelson,Penthouse,San Francisco,ND,USA,6,1,3192,4195000,01/29/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00306,01/29/2024
+USA-00307,David Nelson,Villa,San Francisco,MD,USA,5,4,8070,1159000,02/19/2023,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00307,02/19/2023
+USA-00308,Steven Reynolds,Condo,Seattle,AZ,USA,1,1,7865,2726000,02/03/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00308,02/03/2023
+USA-00309,Adam King,Condo,Montreal,ON,Canada,7,2,2167,3628000,07/04/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00309,07/04/2023
+USA-00310,Johnathan Day,Townhouse,Los Angeles,MI,USA,3,4,5634,2747000,09/18/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00310,09/18/2023
+USA-00311,Thomas Schultz,Townhouse,Boston,NJ,USA,5,2,5373,4146000,08/28/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00311,08/28/2023
+USA-00312,Robert Simmons,Penthouse,Chicago,NH,USA,3,1,3499,1774000,05/25/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00312,05/25/2022
+USA-00313,Lindsey Stevens,Condo,Toronto,ON,Canada,4,4,3543,2267000,07/05/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00313,07/05/2023
+USA-00314,Kevin Wallace,Townhouse,Miami,PA,USA,4,3,2798,964000,05/12/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00314,05/12/2024
+USA-00315,Robert Simmons,Villa,Boston,MO,USA,2,1,6790,4343000,06/02/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00315,06/02/2023
+USA-00316,Carolyn Vazquez,Condo,Seattle,FL,USA,6,7,7772,2276000,03/26/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00316,03/26/2022
+USA-00317,Carolyn Vazquez,Multi-Family,New York,CO,USA,3,2,5229,882000,04/14/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00317,04/14/2023
+USA-00318,Mr. Jonathan Warner,Single Family,Denver,NM,USA,1,1,4889,3522000,04/23/2024,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00318,04/23/2024
+USA-00319,Cody Dunn,Single Family,Denver,NE,USA,2,2,2177,3352000,11/01/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00319,11/01/2023
+USA-00320,Susan Hebert,Condo,Houston,MS,USA,3,1,7693,3914000,05/01/2022,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00320,05/01/2022
+USA-00321,Steven Reynolds,Single Family,Montreal,ON,Canada,3,4,3219,2830000,03/14/2024,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00321,03/14/2024
+USA-00322,Penny Estrada,Townhouse,San Francisco,NC,USA,5,3,3258,1558000,12/22/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00322,12/22/2023
+USA-00323,Kevin Wallace,Townhouse,Vancouver,ON,Canada,7,2,2721,4338000,03/15/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00323,03/15/2024
+USA-00324,Carolyn Vazquez,Villa,Montreal,ON,Canada,7,3,4590,786000,11/26/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00324,11/26/2022
+USA-00325,Lindsey Stevens,Single Family,Boston,MT,USA,2,3,4902,2881000,01/20/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00325,01/20/2023
+USA-00326,Joseph Moore,Villa,Denver,MN,USA,6,3,6546,2128000,05/15/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00326,05/15/2023
+USA-00327,Robert Simmons,Condo,Montreal,ON,Canada,4,3,1537,3611000,02/12/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00327,02/12/2023
+USA-00328,Erin Butler,Townhouse,Houston,IA,USA,3,3,6033,2531000,05/14/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00328,05/14/2022
+USA-00329,Tina Moore MD,Single Family,New York,CA,USA,1,2,766,690000,05/28/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00329,05/28/2024
+USA-00330,Mark Powell,Townhouse,Chicago,TX,USA,6,2,5445,842000,10/08/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00330,10/08/2022
+USA-00331,Jill Gordon,Condo,San Francisco,IN,USA,6,6,3211,375000,10/03/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00331,10/03/2023
+USA-00332,Susan Hebert,Penthouse,Vancouver,ON,Canada,1,1,517,1078000,03/21/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00332,03/21/2022
+USA-00333,Erin Butler,Single Family,New York,RI,USA,1,2,2475,4448000,03/09/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00333,03/09/2023
+USA-00334,Carolyn Vazquez,Condo,Seattle,MP,USA,1,1,2190,1513000,11/03/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00334,11/03/2022
+USA-00335,Marcus Mckee,Condo,Los Angeles,MT,USA,5,5,638,2805000,06/18/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00335,06/18/2022
+USA-00336,Thomas Schultz,Single Family,Seattle,WI,USA,5,6,7748,3891000,03/30/2022,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00336,03/30/2022
+USA-00337,Lindsey Stevens,Single Family,Montreal,ON,Canada,4,3,7535,1518000,05/24/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00337,05/24/2022
+USA-00338,Dana Peterson,Townhouse,Denver,MN,USA,5,5,5168,3539000,12/09/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00338,12/09/2023
+USA-00339,Susan Hebert,Multi-Family,Denver,DC,USA,5,5,3590,3403000,10/30/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00339,10/30/2022
+USA-00340,Adam King,Condo,Los Angeles,OH,USA,2,2,1663,2448000,01/13/2022,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00340,01/13/2022
+USA-00341,Penny Estrada,Single Family,Toronto,ON,Canada,4,3,3330,3468000,02/28/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00341,02/28/2024
+USA-00342,Lindsey Stevens,Villa,Houston,MS,USA,2,1,1490,4277000,02/12/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00342,02/12/2023
+USA-00343,Zachary Le,Single Family,Seattle,DE,USA,4,4,1850,2936000,07/05/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00343,07/05/2023
+USA-00344,Carolyn Vazquez,Villa,Los Angeles,RI,USA,5,2,3045,2483000,02/05/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00344,02/05/2023
+USA-00345,Johnathan Day,Multi-Family,Houston,FM,USA,6,4,4409,402000,03/30/2022,Under Contract,Exclusive gated community,https://blackwoodestates.com/listings/USA-00345,03/30/2022
+USA-00346,Joseph Moore,Condo,Toronto,ON,Canada,1,2,3377,670000,12/26/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00346,12/26/2023
+USA-00347,Zachary Le,Villa,San Francisco,KY,USA,5,5,4747,876000,05/10/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00347,05/10/2022
+USA-00348,Penny Estrada,Villa,New York,KY,USA,3,4,4956,2429000,09/27/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00348,09/27/2022
+USA-00349,Mark Powell,Condo,Boston,MP,USA,4,5,6400,391000,05/29/2024,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00349,05/29/2024
+USA-00350,Joseph Moore,Condo,Los Angeles,CO,USA,5,6,2389,1144000,06/06/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00350,06/06/2023
+USA-00351,Jill Gordon,Villa,Boston,MT,USA,3,4,2958,928000,05/28/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00351,05/28/2024
+USA-00352,Jeremy Burke,Penthouse,Chicago,NY,USA,3,2,7319,4134000,11/24/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00352,11/24/2022
+USA-00353,Kevin Wallace,Multi-Family,Los Angeles,IN,USA,5,6,1362,930000,04/03/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00353,04/03/2024
+USA-00354,Mark Powell,Condo,Boston,FL,USA,7,5,5590,1574000,07/21/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00354,07/21/2023
+USA-00355,Carolyn Vazquez,Condo,Toronto,ON,Canada,7,5,4474,2168000,08/29/2023,Under Contract,Investment opportunity,https://blackwoodestates.com/listings/USA-00355,08/29/2023
+USA-00356,Jill Gordon,Single Family,Chicago,MT,USA,2,1,7218,254000,07/09/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00356,07/09/2023
+USA-00357,Robert Simmons,Multi-Family,New York,RI,USA,7,7,5538,602000,06/27/2023,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00357,06/27/2023
+USA-00358,Lori Alvarado,Multi-Family,Miami,FL,USA,6,3,2024,341000,08/26/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00358,08/26/2022
+USA-00359,Jeremy Burke,Penthouse,Boston,GU,USA,6,1,2065,2349000,10/15/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00359,10/15/2023
+USA-00360,James Vega,Villa,New York,ND,USA,4,2,4379,1419000,05/21/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00360,05/21/2024
+USA-00361,Carolyn Vazquez,Penthouse,San Francisco,IA,USA,4,3,4327,475000,07/27/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00361,07/27/2022
+USA-00362,Mark Powell,Condo,Miami,NJ,USA,1,1,7865,2177000,02/21/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00362,02/21/2023
+USA-00363,Jill Gordon,Villa,Houston,PW,USA,4,3,2464,543000,04/06/2024,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00363,04/06/2024
+USA-00364,James Vega,Penthouse,New York,DC,USA,2,2,2930,547000,09/12/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00364,09/12/2022
+USA-00365,Mr. Jonathan Warner,Villa,Vancouver,ON,Canada,3,3,3348,285000,02/19/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00365,02/19/2023
+USA-00366,Kevin Wallace,Condo,Chicago,OR,USA,1,2,2169,3647000,05/24/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00366,05/24/2022
+USA-00367,Penny Estrada,Townhouse,Chicago,VT,USA,7,7,6598,3135000,10/23/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00367,10/23/2023
+USA-00368,Adam King,Single Family,New York,ND,USA,1,1,7765,3670000,04/05/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00368,04/05/2022
+USA-00369,James Vega,Villa,Boston,GU,USA,1,1,7596,3724000,02/09/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00369,02/09/2023
+USA-00370,Kevin Wallace,Penthouse,Miami,PW,USA,3,2,3566,1346000,04/02/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00370,04/02/2023
+USA-00371,Jeremy Burke,Townhouse,Toronto,ON,Canada,2,3,5335,2320000,07/18/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00371,07/18/2023
+USA-00372,Joseph Moore,Multi-Family,Miami,CA,USA,4,2,4582,2894000,04/01/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00372,04/01/2024
+USA-00373,Zachary Le,Condo,Boston,AR,USA,5,4,6136,4120000,05/30/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00373,05/30/2023
+USA-00374,Erin Butler,Penthouse,San Francisco,PW,USA,5,2,980,4047000,03/08/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00374,03/08/2024
+USA-00375,Marcus Mckee,Single Family,Toronto,ON,Canada,2,1,2140,1228000,09/04/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00375,09/04/2022
+USA-00376,Susan Hebert,Penthouse,Toronto,ON,Canada,7,7,6313,4218000,05/15/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00376,05/15/2024
+USA-00377,Penny Estrada,Condo,Montreal,ON,Canada,6,3,962,3210000,12/27/2022,Under Contract,Exclusive gated community,https://blackwoodestates.com/listings/USA-00377,12/27/2022
+USA-00378,Susan Hebert,Penthouse,Chicago,AZ,USA,7,8,5563,914000,02/08/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00378,02/08/2022
+USA-00379,Thomas Schultz,Townhouse,New York,NE,USA,5,4,511,1593000,09/21/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00379,09/21/2023
+USA-00380,Lori Alvarado,Townhouse,San Francisco,NV,USA,1,1,2920,2702000,05/26/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00380,05/26/2022
+USA-00381,Thomas Schultz,Condo,San Francisco,SC,USA,6,6,6981,2699000,12/11/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00381,12/11/2022
+USA-00382,Christopher Warren,Townhouse,Vancouver,ON,Canada,4,3,3354,3226000,07/30/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00382,07/30/2023
+USA-00383,David Nelson,Villa,Vancouver,ON,Canada,5,2,6699,1485000,12/07/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00383,12/07/2023
+USA-00384,Christopher Warren,Condo,Montreal,ON,Canada,5,4,1030,942000,11/22/2022,Under Contract,Exclusive gated community,https://blackwoodestates.com/listings/USA-00384,11/22/2022
+USA-00385,Adam King,Condo,Los Angeles,AS,USA,4,2,5925,3392000,09/01/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00385,09/01/2022
+USA-00386,Jill Gordon,Single Family,Montreal,ON,Canada,6,6,6000,2093000,09/29/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00386,09/29/2022
+USA-00387,David Nelson,Multi-Family,Houston,NV,USA,7,2,520,359000,03/25/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00387,03/25/2023
+USA-00388,Lindsey Stevens,Villa,Seattle,DC,USA,3,4,2161,3755000,03/18/2024,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00388,03/18/2024
+USA-00389,Johnathan Day,Single Family,Miami,MS,USA,4,1,1047,1433000,11/23/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00389,11/23/2022
+USA-00390,Christopher Warren,Multi-Family,Miami,ME,USA,4,2,1728,2530000,04/06/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00390,04/06/2022
+USA-00391,Steven Reynolds,Multi-Family,Seattle,OR,USA,6,2,7613,833000,04/14/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00391,04/14/2022
+USA-00392,Kevin Wallace,Multi-Family,Montreal,ON,Canada,6,5,4846,3024000,11/01/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00392,11/01/2022
+USA-00393,Cody Dunn,Villa,Denver,AS,USA,7,8,3016,387000,01/04/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00393,01/04/2022
+USA-00394,Jeremy Burke,Multi-Family,Boston,WA,USA,2,1,921,1050000,10/16/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00394,10/16/2023
+USA-00395,Lindsey Stevens,Penthouse,Houston,KY,USA,7,7,8215,2278000,11/08/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00395,11/08/2023
+USA-00396,Tina Moore MD,Townhouse,Miami,AL,USA,3,4,6552,962000,02/15/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00396,02/15/2022
+USA-00397,Dana Peterson,Townhouse,Houston,GU,USA,5,1,2976,3422000,11/15/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00397,11/15/2023
+USA-00398,Mr. Jonathan Warner,Villa,Seattle,NH,USA,7,4,1499,3807000,04/18/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00398,04/18/2024
+USA-00399,Lori Alvarado,Penthouse,Toronto,ON,Canada,2,2,5396,493000,05/24/2024,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00399,05/24/2024
+USA-00400,David Nelson,Condo,Toronto,ON,Canada,6,5,2915,673000,02/15/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00400,02/15/2024
+USA-00401,Lindsey Stevens,Condo,Miami,AS,USA,1,2,1783,4449000,03/22/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00401,03/22/2023
+USA-00402,Zachary Le,Penthouse,Houston,ND,USA,3,1,1925,1838000,02/11/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00402,02/11/2023
+USA-00403,Penny Estrada,Single Family,New York,PW,USA,7,7,2343,1953000,06/01/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00403,06/01/2022
+USA-00404,Zachary Le,Multi-Family,Toronto,ON,Canada,7,2,5187,3924000,12/19/2022,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00404,12/19/2022
+USA-00405,Christopher Warren,Villa,Toronto,ON,Canada,5,4,1113,899000,02/17/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00405,02/17/2023
+USA-00406,Mark Powell,Single Family,New York,FL,USA,4,3,4392,364000,05/02/2023,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00406,05/02/2023
+USA-00407,Susan Hebert,Condo,Houston,NE,USA,3,3,8554,3883000,12/03/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00407,12/03/2023
+USA-00408,Steven Reynolds,Multi-Family,Montreal,ON,Canada,4,3,4914,3320000,09/12/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00408,09/12/2023
+USA-00409,David Nelson,Single Family,Seattle,IL,USA,6,4,8962,3922000,04/20/2024,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00409,04/20/2024
+USA-00410,Joseph Moore,Condo,Montreal,ON,Canada,5,4,2722,3545000,06/21/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00410,06/21/2023
+USA-00411,Jill Gordon,Condo,Chicago,DE,USA,7,1,4587,294000,02/21/2022,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00411,02/21/2022
+USA-00412,Susan Hebert,Townhouse,San Francisco,MH,USA,7,8,8775,1877000,05/07/2022,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00412,05/07/2022
+USA-00413,Zachary Le,Villa,Toronto,ON,Canada,4,2,8275,2703000,12/25/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00413,12/25/2022
+USA-00414,Steven Reynolds,Condo,Houston,IL,USA,1,2,1313,859000,08/09/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00414,08/09/2023
+USA-00415,Dana Peterson,Single Family,Vancouver,ON,Canada,2,2,7209,2383000,03/10/2024,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00415,03/10/2024
+USA-00416,Cody Dunn,Villa,Miami,AZ,USA,6,2,638,1123000,09/15/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00416,09/15/2023
+USA-00417,Lori Alvarado,Penthouse,Seattle,UT,USA,4,3,8020,1246000,04/23/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00417,04/23/2023
+USA-00418,Mr. Jonathan Warner,Villa,Toronto,ON,Canada,1,1,8880,4498000,05/13/2024,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00418,05/13/2024
+USA-00419,Lindsey Stevens,Townhouse,Toronto,ON,Canada,3,3,2271,2246000,12/11/2022,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00419,12/11/2022
+USA-00420,Kevin Wallace,Penthouse,Houston,FL,USA,6,6,5395,969000,06/14/2023,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00420,06/14/2023
+USA-00421,Robert Simmons,Multi-Family,Vancouver,ON,Canada,3,2,917,3001000,10/30/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00421,10/30/2022
+USA-00422,Lindsey Stevens,Multi-Family,Montreal,ON,Canada,1,1,6122,3310000,08/16/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00422,08/16/2022
+USA-00423,Zachary Le,Villa,Denver,VT,USA,3,2,3467,1428000,04/28/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00423,04/28/2023
+USA-00424,Cody Dunn,Multi-Family,Miami,NY,USA,6,3,1963,1117000,08/17/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00424,08/17/2022
+USA-00425,Lindsey Stevens,Penthouse,San Francisco,MA,USA,3,3,8098,3853000,04/27/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00425,04/27/2023
+USA-00426,Cody Dunn,Multi-Family,Toronto,ON,Canada,1,2,3687,2327000,11/29/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00426,11/29/2023
+USA-00427,Tina Moore MD,Condo,Miami,ID,USA,2,1,6114,1930000,08/07/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00427,08/07/2023
+USA-00428,Kevin Wallace,Single Family,Montreal,ON,Canada,2,1,8488,1597000,07/01/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00428,07/01/2022
+USA-00429,Thomas Schultz,Penthouse,Houston,NE,USA,2,1,3095,2280000,02/21/2024,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00429,02/21/2024
+USA-00430,Mr. Jonathan Warner,Condo,Vancouver,ON,Canada,4,4,7529,4349000,01/28/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00430,01/28/2023
+USA-00431,Susan Hebert,Villa,New York,TX,USA,3,2,793,3094000,10/04/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00431,10/04/2023
+USA-00432,Kevin Wallace,Townhouse,Houston,NV,USA,2,1,6784,2340000,11/10/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00432,11/10/2022
+USA-00433,Adam King,Multi-Family,Boston,VI,USA,6,5,6035,2036000,12/05/2023,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00433,12/05/2023
+USA-00434,Steven Reynolds,Villa,Chicago,HI,USA,2,2,813,1144000,01/15/2024,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00434,01/15/2024
+USA-00435,James Vega,Villa,Toronto,ON,Canada,5,2,2517,1745000,10/29/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00435,10/29/2023
+USA-00436,Kevin Wallace,Villa,Denver,WY,USA,5,1,1285,3030000,11/01/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00436,11/01/2023
+USA-00437,Steven Reynolds,Villa,Seattle,MN,USA,4,4,2524,2531000,05/01/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00437,05/01/2023
+USA-00438,Johnathan Day,Penthouse,Houston,NJ,USA,4,1,4923,2859000,12/19/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00438,12/19/2023
+USA-00439,Zachary Le,Penthouse,Los Angeles,MA,USA,3,1,2241,2315000,09/16/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00439,09/16/2023
+USA-00440,Steven Reynolds,Villa,San Francisco,ID,USA,6,4,5339,848000,07/16/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00440,07/16/2023
+USA-00441,Dana Peterson,Multi-Family,San Francisco,PR,USA,2,1,708,3072000,04/24/2022,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00441,04/24/2022
+USA-00442,Cody Dunn,Townhouse,Los Angeles,AL,USA,7,2,2159,4086000,10/22/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00442,10/22/2023
+USA-00443,Adam King,Multi-Family,New York,RI,USA,1,1,1146,3857000,01/04/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00443,01/04/2023
+USA-00444,Adam King,Townhouse,Los Angeles,NC,USA,7,1,658,3856000,11/11/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00444,11/11/2023
+USA-00445,James Vega,Multi-Family,Toronto,ON,Canada,3,1,6605,3695000,07/07/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00445,07/07/2022
+USA-00446,David Nelson,Single Family,Seattle,TN,USA,6,7,8335,3630000,10/27/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00446,10/27/2023
+USA-00447,Penny Estrada,Villa,Montreal,ON,Canada,6,1,3111,601000,08/28/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00447,08/28/2023
+USA-00448,Marcus Mckee,Condo,Miami,OH,USA,5,4,6375,2809000,12/02/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00448,12/02/2023
+USA-00449,Joseph Moore,Villa,Boston,MP,USA,1,2,7720,350000,09/25/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00449,09/25/2022
+USA-00450,Lori Alvarado,Penthouse,Montreal,ON,Canada,5,6,4169,4404000,11/17/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00450,11/17/2023
+USA-00451,Thomas Schultz,Penthouse,Los Angeles,KS,USA,4,2,8395,1654000,11/24/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00451,11/24/2023
+USA-00452,David Nelson,Single Family,New York,WV,USA,1,1,8783,3842000,05/22/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00452,05/22/2024
+USA-00453,James Vega,Multi-Family,San Francisco,MI,USA,2,2,5057,369000,08/17/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00453,08/17/2022
+USA-00454,Johnathan Day,Multi-Family,Los Angeles,KS,USA,4,4,7841,533000,05/26/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00454,05/26/2023
+USA-00455,Christopher Warren,Penthouse,Los Angeles,NY,USA,4,4,1087,2574000,01/01/2022,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00455,01/01/2022
+USA-00456,Susan Hebert,Multi-Family,Denver,LA,USA,5,2,7974,4284000,01/08/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00456,01/08/2023
+USA-00457,Dana Peterson,Condo,Denver,MA,USA,7,8,6452,3264000,04/27/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00457,04/27/2022
+USA-00458,Erin Butler,Condo,San Francisco,WV,USA,3,3,6625,3204000,02/16/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00458,02/16/2022
+USA-00459,Tina Moore MD,Condo,Los Angeles,CT,USA,3,2,3572,675000,05/22/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00459,05/22/2024
+USA-00460,Johnathan Day,Multi-Family,Los Angeles,PW,USA,7,7,1261,4181000,05/07/2024,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00460,05/07/2024
+USA-00461,Kevin Wallace,Penthouse,Vancouver,ON,Canada,5,5,2705,4343000,01/05/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00461,01/05/2022
+USA-00462,Thomas Schultz,Single Family,Toronto,ON,Canada,4,5,3403,3159000,06/27/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00462,06/27/2022
+USA-00463,Christopher Warren,Villa,Vancouver,ON,Canada,5,5,5773,2343000,01/29/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00463,01/29/2023
+USA-00464,Christopher Warren,Villa,Houston,NM,USA,4,3,5319,2120000,05/17/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00464,05/17/2022
+USA-00465,Dana Peterson,Townhouse,Houston,AZ,USA,7,6,4060,1024000,10/02/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00465,10/02/2023
+USA-00466,Johnathan Day,Townhouse,Montreal,ON,Canada,6,2,8755,2510000,10/15/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00466,10/15/2023
+USA-00467,Robert Simmons,Single Family,Boston,IA,USA,5,5,7339,3083000,05/11/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00467,05/11/2024
+USA-00468,Carolyn Vazquez,Condo,Los Angeles,AZ,USA,1,2,2881,381000,02/27/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00468,02/27/2022
+USA-00469,Mr. Jonathan Warner,Single Family,Vancouver,ON,Canada,3,2,1516,3154000,10/30/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00469,10/30/2022
+USA-00470,Jill Gordon,Townhouse,Boston,NE,USA,1,1,6871,1184000,03/14/2024,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00470,03/14/2024
+USA-00471,Zachary Le,Condo,Seattle,OH,USA,4,4,5622,4351000,02/25/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00471,02/25/2022
+USA-00472,Steven Reynolds,Villa,Boston,TX,USA,7,4,6525,3435000,07/14/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00472,07/14/2023
+USA-00473,Johnathan Day,Multi-Family,Houston,CA,USA,4,2,1720,963000,06/27/2022,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00473,06/27/2022
+USA-00474,Adam King,Multi-Family,Seattle,MI,USA,3,3,2631,850000,05/16/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00474,05/16/2024
+USA-00475,Dana Peterson,Townhouse,New York,LA,USA,2,2,1333,3515000,10/03/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00475,10/03/2023
+USA-00476,David Nelson,Penthouse,Toronto,ON,Canada,5,3,1694,3561000,11/22/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00476,11/22/2022
+USA-00477,Dana Peterson,Townhouse,Denver,NJ,USA,2,2,7109,550000,08/15/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00477,08/15/2022
+USA-00478,Lindsey Stevens,Single Family,San Francisco,DE,USA,3,2,8280,4485000,04/23/2024,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00478,04/23/2024
+USA-00479,Susan Hebert,Single Family,Vancouver,ON,Canada,3,4,4437,4085000,09/21/2023,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00479,09/21/2023
+USA-00480,Lori Alvarado,Townhouse,Seattle,LA,USA,7,2,6822,1266000,01/12/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00480,01/12/2024
+USA-00481,Lori Alvarado,Single Family,Denver,WY,USA,4,4,1218,1439000,10/30/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00481,10/30/2023
+USA-00482,Dana Peterson,Multi-Family,Miami,ND,USA,7,1,1572,1067000,10/07/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00482,10/07/2023
+USA-00483,Thomas Schultz,Single Family,Chicago,DE,USA,5,6,7630,2963000,03/15/2022,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00483,03/15/2022
+USA-00484,Mr. Jonathan Warner,Single Family,Montreal,ON,Canada,3,1,1933,469000,07/02/2022,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00484,07/02/2022
+USA-00485,Joseph Moore,Multi-Family,Chicago,DC,USA,3,4,6857,2112000,02/19/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00485,02/19/2023
+USA-00486,Lori Alvarado,Single Family,Denver,IL,USA,1,1,1245,3199000,03/16/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00486,03/16/2022
+USA-00487,Dana Peterson,Single Family,Vancouver,ON,Canada,3,1,5112,3479000,03/25/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00487,03/25/2023
+USA-00488,Mr. Jonathan Warner,Townhouse,Miami,DC,USA,5,2,2734,3398000,03/26/2024,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00488,03/26/2024
+USA-00489,Mr. Jonathan Warner,Condo,Houston,PW,USA,6,7,6613,4315000,01/12/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00489,01/12/2022
+USA-00490,Marcus Mckee,Townhouse,New York,CO,USA,1,2,1894,1475000,02/06/2024,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00490,02/06/2024
+USA-00491,Zachary Le,Condo,Seattle,GU,USA,6,7,8897,770000,07/08/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00491,07/08/2022
+USA-00492,Mr. Jonathan Warner,Single Family,Miami,NH,USA,6,7,1391,3854000,07/17/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00492,07/17/2023
+USA-00493,Adam King,Townhouse,Vancouver,ON,Canada,1,2,2108,1009000,08/18/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00493,08/18/2023
+USA-00494,Adam King,Multi-Family,Vancouver,ON,Canada,6,2,2139,1390000,03/13/2022,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00494,03/13/2022
+USA-00495,Mark Powell,Townhouse,San Francisco,MD,USA,5,6,5508,3167000,06/06/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00495,06/06/2022
+USA-00496,Robert Simmons,Townhouse,Miami,TX,USA,1,2,4533,3568000,12/31/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00496,12/31/2023
+USA-00497,Carolyn Vazquez,Townhouse,Miami,CA,USA,6,6,5932,3969000,04/19/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00497,04/19/2023
+USA-00498,Mr. Jonathan Warner,Condo,Denver,SC,USA,1,1,1843,3812000,05/29/2024,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00498,05/29/2024
+USA-00499,Joseph Moore,Penthouse,Montreal,ON,Canada,6,1,1735,4031000,05/19/2024,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00499,05/19/2024
+USA-00500,Mr. Jonathan Warner,Multi-Family,Seattle,VA,USA,7,4,1100,2549000,07/11/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00500,07/11/2023
+USA-00501,James Vega,Townhouse,San Francisco,RI,USA,4,2,5267,732000,05/29/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00501,05/29/2023
+USA-00502,David Nelson,Penthouse,New York,NH,USA,6,2,3217,3444000,05/24/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00502,05/24/2022
+USA-00503,Erin Butler,Condo,Vancouver,ON,Canada,7,3,8421,4235000,02/11/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00503,02/11/2022
+USA-00504,Mark Powell,Multi-Family,Houston,MN,USA,3,2,1201,3058000,06/15/2023,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00504,06/15/2023
+USA-00505,Zachary Le,Villa,Boston,VT,USA,1,1,5809,599000,06/18/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00505,06/18/2023
+USA-00506,Lindsey Stevens,Single Family,Toronto,ON,Canada,5,5,3348,1788000,01/23/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00506,01/23/2023
+USA-00507,Erin Butler,Multi-Family,Houston,MI,USA,4,2,8960,1915000,04/16/2024,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00507,04/16/2024
+USA-00508,Zachary Le,Condo,New York,ID,USA,5,2,7707,870000,03/20/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00508,03/20/2022
+USA-00509,Marcus Mckee,Single Family,Miami,NM,USA,2,2,2438,3026000,03/01/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00509,03/01/2023
+USA-00510,Joseph Moore,Condo,Vancouver,ON,Canada,4,4,3952,2720000,10/25/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00510,10/25/2023
+USA-00511,Penny Estrada,Condo,Miami,KS,USA,5,5,3139,736000,06/09/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00511,06/09/2023
+USA-00512,Lindsey Stevens,Single Family,Miami,PA,USA,3,2,8964,4318000,09/06/2023,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00512,09/06/2023
+USA-00513,Robert Simmons,Penthouse,Los Angeles,NE,USA,2,2,8223,3923000,06/24/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00513,06/24/2022
+USA-00514,Tina Moore MD,Penthouse,Toronto,ON,Canada,7,3,8869,1301000,01/12/2024,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00514,01/12/2024
+USA-00515,Lori Alvarado,Villa,Los Angeles,WA,USA,2,2,6815,725000,01/17/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00515,01/17/2022
+USA-00516,Mr. Jonathan Warner,Penthouse,Miami,CO,USA,5,1,3406,2220000,09/22/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00516,09/22/2023
+USA-00517,Robert Simmons,Penthouse,Los Angeles,FM,USA,4,2,519,4052000,03/04/2024,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00517,03/04/2024
+USA-00518,Carolyn Vazquez,Multi-Family,San Francisco,PW,USA,7,1,7528,1148000,04/01/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00518,04/01/2024
+USA-00519,Jeremy Burke,Townhouse,Toronto,ON,Canada,7,2,7471,732000,05/04/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00519,05/04/2023
+USA-00520,Penny Estrada,Penthouse,Denver,CA,USA,4,3,3596,174000,02/01/2024,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00520,02/01/2024
+USA-00521,Johnathan Day,Condo,Denver,ND,USA,1,2,3865,3142000,11/20/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00521,11/20/2022
+USA-00522,Christopher Warren,Townhouse,Vancouver,ON,Canada,5,3,4781,3869000,03/10/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00522,03/10/2023
+USA-00523,Zachary Le,Townhouse,Chicago,NV,USA,4,5,8404,927000,07/27/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00523,07/27/2023
+USA-00524,Susan Hebert,Multi-Family,San Francisco,OH,USA,7,7,2762,3869000,11/07/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00524,11/07/2023
+USA-00525,Jill Gordon,Villa,Los Angeles,MS,USA,2,3,7062,3569000,03/31/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00525,03/31/2024
+USA-00526,Robert Simmons,Single Family,Miami,MI,USA,4,1,1992,3731000,04/28/2023,Under Contract,Prime city centre location,https://blackwoodestates.com/listings/USA-00526,04/28/2023
+USA-00527,James Vega,Penthouse,Houston,VA,USA,2,2,1811,2799000,01/12/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00527,01/12/2024
+USA-00528,Erin Butler,Multi-Family,Houston,CO,USA,6,5,1441,4264000,04/19/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00528,04/19/2024
+USA-00529,Jill Gordon,Condo,Chicago,PR,USA,7,5,3690,296000,09/06/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00529,09/06/2023
+USA-00530,Jeremy Burke,Townhouse,Miami,AK,USA,6,1,6393,1191000,01/01/2022,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00530,01/01/2022
+USA-00531,Jill Gordon,Single Family,San Francisco,KY,USA,6,4,7142,2699000,06/15/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00531,06/15/2023
+USA-00532,Steven Reynolds,Multi-Family,Denver,CA,USA,3,3,6193,4340000,10/11/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00532,10/11/2022
+USA-00533,Lori Alvarado,Townhouse,Toronto,ON,Canada,1,2,3367,1921000,04/20/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00533,04/20/2022
+USA-00534,Carolyn Vazquez,Condo,Los Angeles,MH,USA,7,5,4598,3170000,01/22/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00534,01/22/2023
+USA-00535,Lindsey Stevens,Condo,Boston,NH,USA,6,4,948,2247000,09/22/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00535,09/22/2022
+USA-00536,Susan Hebert,Townhouse,San Francisco,AK,USA,4,3,8962,2480000,12/19/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00536,12/19/2023
+USA-00537,Mark Powell,Condo,Seattle,RI,USA,6,6,6103,481000,07/02/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00537,07/02/2022
+USA-00538,Susan Hebert,Townhouse,Houston,CT,USA,2,3,3615,2321000,07/24/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00538,07/24/2022
+USA-00539,Jeremy Burke,Villa,Chicago,NJ,USA,2,1,6333,829000,04/20/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00539,04/20/2022
+USA-00540,Penny Estrada,Townhouse,Toronto,ON,Canada,1,1,8401,1765000,11/19/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00540,11/19/2022
+USA-00541,Lori Alvarado,Multi-Family,Miami,NH,USA,7,5,7018,1116000,08/14/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00541,08/14/2023
+USA-00542,Johnathan Day,Villa,Denver,VA,USA,1,2,6950,3893000,03/05/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00542,03/05/2024
+USA-00543,Adam King,Townhouse,Boston,VI,USA,3,1,693,3082000,01/24/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00543,01/24/2023
+USA-00544,Adam King,Townhouse,Houston,NH,USA,2,3,4806,1182000,04/28/2023,Under Contract,Modern open-plan living,https://blackwoodestates.com/listings/USA-00544,04/28/2023
+USA-00545,James Vega,Townhouse,Boston,NJ,USA,4,2,7366,3198000,01/17/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00545,01/17/2023
+USA-00546,Susan Hebert,Penthouse,Miami,MN,USA,5,2,4244,3692000,01/09/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00546,01/09/2024
+USA-00547,Erin Butler,Condo,Seattle,RI,USA,2,1,2950,2207000,01/10/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00547,01/10/2022
+USA-00548,Kevin Wallace,Multi-Family,Denver,MT,USA,6,3,8472,1455000,07/30/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00548,07/30/2023
+USA-00549,Johnathan Day,Multi-Family,Montreal,ON,Canada,2,1,4030,3690000,05/03/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00549,05/03/2023
+USA-00550,Dana Peterson,Penthouse,Houston,CT,USA,3,3,4722,1647000,02/26/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00550,02/26/2023
+USA-00551,Dana Peterson,Penthouse,Toronto,ON,Canada,5,6,3359,4410000,10/19/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00551,10/19/2022
+USA-00552,Thomas Schultz,Condo,Montreal,ON,Canada,4,1,6743,2819000,04/20/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00552,04/20/2023
+USA-00553,Adam King,Condo,Seattle,DE,USA,6,5,7131,3843000,03/15/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00553,03/15/2022
+USA-00554,Tina Moore MD,Townhouse,San Francisco,IN,USA,6,3,4882,2783000,02/09/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00554,02/09/2023
+USA-00555,Susan Hebert,Villa,Denver,AR,USA,4,4,3241,950000,01/24/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00555,01/24/2022
+USA-00556,Jeremy Burke,Multi-Family,Montreal,ON,Canada,6,6,1811,1066000,02/11/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00556,02/11/2023
+USA-00557,Lindsey Stevens,Multi-Family,New York,UT,USA,1,2,1863,602000,09/25/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00557,09/25/2023
+USA-00558,David Nelson,Single Family,Chicago,NE,USA,2,3,5155,2078000,05/10/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00558,05/10/2022
+USA-00559,Mr. Jonathan Warner,Multi-Family,Vancouver,ON,Canada,3,3,8301,2182000,07/08/2023,Under Contract,Modern open-plan living,https://blackwoodestates.com/listings/USA-00559,07/08/2023
+USA-00560,Robert Simmons,Penthouse,Montreal,ON,Canada,5,2,7980,2895000,10/14/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00560,10/14/2023
+USA-00561,Robert Simmons,Townhouse,Houston,ME,USA,3,4,4221,3650000,03/29/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00561,03/29/2023
+USA-00562,Jill Gordon,Multi-Family,Houston,KY,USA,1,1,2733,1646000,04/26/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00562,04/26/2023
+USA-00563,Mark Powell,Condo,Houston,NE,USA,1,2,5299,2747000,03/26/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00563,03/26/2024
+USA-00564,James Vega,Condo,Denver,TN,USA,4,4,4594,860000,01/25/2024,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00564,01/25/2024
+USA-00565,Dana Peterson,Townhouse,Los Angeles,PR,USA,4,2,8964,3476000,09/20/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00565,09/20/2023
+USA-00566,Thomas Schultz,Townhouse,Vancouver,ON,Canada,6,5,4904,1946000,05/23/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00566,05/23/2024
+USA-00567,Adam King,Single Family,Vancouver,ON,Canada,4,5,7918,1334000,09/30/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00567,09/30/2023
+USA-00568,Jill Gordon,Multi-Family,New York,AR,USA,5,1,3546,4380000,10/16/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00568,10/16/2022
+USA-00569,Erin Butler,Townhouse,Chicago,VT,USA,1,1,741,2297000,12/17/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00569,12/17/2022
+USA-00570,Kevin Wallace,Townhouse,Montreal,ON,Canada,7,1,5910,499000,02/08/2024,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00570,02/08/2024
+USA-00571,James Vega,Single Family,Los Angeles,VT,USA,5,4,3475,986000,05/11/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00571,05/11/2024
+USA-00572,Marcus Mckee,Single Family,Montreal,ON,Canada,2,2,7757,1225000,02/04/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00572,02/04/2022
+USA-00573,David Nelson,Villa,Vancouver,ON,Canada,2,2,6875,3114000,11/16/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00573,11/16/2022
+USA-00574,Mark Powell,Single Family,Montreal,ON,Canada,5,5,2501,1252000,10/16/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00574,10/16/2023
+USA-00575,Penny Estrada,Single Family,Los Angeles,MH,USA,2,3,7613,1562000,06/21/2022,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00575,06/21/2022
+USA-00576,Jeremy Burke,Condo,Chicago,KY,USA,1,1,8286,3145000,06/08/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00576,06/08/2022
+USA-00577,Mr. Jonathan Warner,Single Family,Boston,WV,USA,1,2,1483,410000,10/23/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00577,10/23/2023
+USA-00578,Joseph Moore,Villa,Boston,FL,USA,2,2,6190,3654000,03/26/2023,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00578,03/26/2023
+USA-00579,Mr. Jonathan Warner,Townhouse,San Francisco,ND,USA,6,2,4607,4059000,05/12/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00579,05/12/2023
+USA-00580,Zachary Le,Penthouse,Montreal,ON,Canada,4,2,3557,2515000,11/28/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00580,11/28/2022
+USA-00581,Tina Moore MD,Single Family,Miami,GA,USA,1,1,7862,1436000,09/27/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00581,09/27/2022
+USA-00582,Susan Hebert,Townhouse,Seattle,ID,USA,6,2,806,2846000,01/08/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00582,01/08/2023
+USA-00583,Thomas Schultz,Penthouse,Vancouver,ON,Canada,5,4,3610,2430000,05/25/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00583,05/25/2023
+USA-00584,Thomas Schultz,Condo,San Francisco,CT,USA,4,3,2309,569000,11/06/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00584,11/06/2023
+USA-00585,James Vega,Villa,Chicago,CT,USA,1,2,3639,580000,08/08/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00585,08/08/2023
+USA-00586,Jeremy Burke,Single Family,Denver,MD,USA,5,6,4693,364000,08/15/2022,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00586,08/15/2022
+USA-00587,Marcus Mckee,Multi-Family,Vancouver,ON,Canada,4,1,8168,3634000,03/04/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00587,03/04/2022
+USA-00588,Steven Reynolds,Penthouse,Montreal,ON,Canada,1,2,1166,3344000,05/04/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00588,05/04/2024
+USA-00589,Penny Estrada,Villa,Los Angeles,CO,USA,6,2,6813,974000,06/23/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00589,06/23/2023
+USA-00590,Mark Powell,Villa,Denver,AR,USA,6,5,7302,3396000,02/24/2024,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00590,02/24/2024
+USA-00591,Lori Alvarado,Townhouse,Montreal,ON,Canada,6,4,2205,876000,07/04/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00591,07/04/2022
+USA-00592,Adam King,Townhouse,Denver,NJ,USA,5,4,6272,4076000,07/18/2023,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00592,07/18/2023
+USA-00593,Mr. Jonathan Warner,Villa,Vancouver,ON,Canada,4,3,4443,2600000,08/08/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00593,08/08/2022
+USA-00594,Christopher Warren,Single Family,San Francisco,AL,USA,4,4,7005,151000,02/05/2022,Under Contract,Investment opportunity,https://blackwoodestates.com/listings/USA-00594,02/05/2022
+USA-00595,Joseph Moore,Villa,Miami,PA,USA,3,1,5420,4432000,08/08/2022,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00595,08/08/2022
+USA-00596,Thomas Schultz,Townhouse,Denver,MI,USA,5,5,3034,560000,04/17/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00596,04/17/2023
+USA-00597,Penny Estrada,Condo,Toronto,ON,Canada,2,1,4698,3678000,04/05/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00597,04/05/2022
+USA-00598,Johnathan Day,Penthouse,Montreal,ON,Canada,3,4,3332,2274000,12/08/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00598,12/08/2023
+USA-00599,Adam King,Townhouse,New York,CO,USA,6,7,6751,491000,02/27/2022,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00599,02/27/2022
+USA-00600,Joseph Moore,Villa,Seattle,IN,USA,7,2,4214,3402000,05/19/2024,Sold,Private pool and garden,https://blackwoodestates.com/listings/USA-00600,05/19/2024
+USA-00601,Jill Gordon,Condo,New York,VI,USA,3,1,5731,2499000,06/03/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00601,06/03/2022
+USA-00602,Lori Alvarado,Single Family,New York,MS,USA,6,6,6936,4374000,02/10/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00602,02/10/2024
+USA-00603,Marcus Mckee,Single Family,Seattle,MN,USA,3,4,2925,725000,03/26/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00603,03/26/2022
+USA-00604,Carolyn Vazquez,Condo,Seattle,OK,USA,3,1,7029,2333000,03/03/2024,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00604,03/03/2024
+USA-00605,Marcus Mckee,Penthouse,Denver,MI,USA,2,2,6976,2987000,07/20/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00605,07/20/2022
+USA-00606,Dana Peterson,Multi-Family,Chicago,PW,USA,1,2,7546,1557000,08/13/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00606,08/13/2023
+USA-00607,Cody Dunn,Condo,San Francisco,OH,USA,3,2,5754,1649000,11/03/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00607,11/03/2023
+USA-00608,Dana Peterson,Townhouse,Toronto,ON,Canada,7,8,2889,2066000,04/17/2024,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00608,04/17/2024
+USA-00609,Thomas Schultz,Townhouse,Montreal,ON,Canada,7,2,2341,3367000,09/06/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00609,09/06/2022
+USA-00610,Steven Reynolds,Villa,San Francisco,VA,USA,6,7,2323,1477000,04/28/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00610,04/28/2023
+USA-00611,Thomas Schultz,Villa,Chicago,NY,USA,2,3,4737,2537000,09/30/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00611,09/30/2023
+USA-00612,Jill Gordon,Penthouse,Seattle,TX,USA,5,6,1212,1261000,03/03/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00612,03/03/2022
+USA-00613,Dana Peterson,Townhouse,New York,HI,USA,4,1,1591,1841000,10/05/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00613,10/05/2022
+USA-00614,Johnathan Day,Townhouse,New York,TN,USA,3,4,4287,4412000,06/05/2023,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00614,06/05/2023
+USA-00615,Jill Gordon,Single Family,Toronto,ON,Canada,5,1,3554,1015000,04/14/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00615,04/14/2023
+USA-00616,Mark Powell,Villa,Chicago,OR,USA,5,3,5965,2281000,02/02/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00616,02/02/2024
+USA-00617,Kevin Wallace,Villa,San Francisco,AS,USA,6,3,4369,4483000,05/29/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00617,05/29/2023
+USA-00618,Dana Peterson,Condo,Seattle,DC,USA,7,1,5090,1131000,12/16/2022,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00618,12/16/2022
+USA-00619,Cody Dunn,Penthouse,Montreal,ON,Canada,4,5,4226,1965000,08/10/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00619,08/10/2023
+USA-00620,Steven Reynolds,Condo,Boston,WY,USA,5,2,3887,2988000,08/18/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00620,08/18/2023
+USA-00621,Penny Estrada,Condo,Montreal,ON,Canada,6,5,2715,2021000,02/28/2024,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00621,02/28/2024
+USA-00622,Marcus Mckee,Single Family,Los Angeles,HI,USA,5,5,2439,951000,05/09/2024,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00622,05/09/2024
+USA-00623,Marcus Mckee,Townhouse,Seattle,UT,USA,4,3,7758,3393000,04/21/2024,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00623,04/21/2024
+USA-00624,Christopher Warren,Penthouse,Chicago,DC,USA,1,1,3526,264000,09/19/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00624,09/19/2023
+USA-00625,Carolyn Vazquez,Multi-Family,Chicago,IA,USA,5,2,4283,3140000,01/03/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00625,01/03/2023
+USA-00626,Thomas Schultz,Condo,Denver,WY,USA,7,8,6626,950000,02/01/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00626,02/01/2023
+USA-00627,Dana Peterson,Condo,Chicago,IL,USA,1,2,745,4176000,02/27/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00627,02/27/2023
+USA-00628,Robert Simmons,Multi-Family,Los Angeles,NM,USA,2,2,8527,3142000,04/14/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00628,04/14/2023
+USA-00629,Marcus Mckee,Penthouse,Toronto,ON,Canada,6,7,6732,3283000,02/08/2023,Sold,Exclusive gated community,https://blackwoodestates.com/listings/USA-00629,02/08/2023
+USA-00630,Kevin Wallace,Condo,Denver,KY,USA,5,6,1130,2415000,04/08/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00630,04/08/2023
+USA-00631,Steven Reynolds,Townhouse,Denver,RI,USA,4,1,6847,2395000,10/08/2023,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00631,10/08/2023
+USA-00632,Kevin Wallace,Villa,Seattle,ME,USA,3,3,8058,874000,10/29/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00632,10/29/2022
+USA-00633,Penny Estrada,Villa,Miami,NE,USA,4,4,1981,3294000,04/26/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00633,04/26/2022
+USA-00634,Jill Gordon,Condo,Miami,KY,USA,4,4,5799,2111000,07/03/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00634,07/03/2022
+USA-00635,Jill Gordon,Multi-Family,Los Angeles,CT,USA,3,3,3186,3275000,05/07/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00635,05/07/2022
+USA-00636,David Nelson,Multi-Family,Los Angeles,FL,USA,5,6,6792,3312000,06/08/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00636,06/08/2023
+USA-00637,David Nelson,Condo,Seattle,FL,USA,1,1,5991,2610000,11/07/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00637,11/07/2023
+USA-00638,Cody Dunn,Villa,Montreal,ON,Canada,1,2,5547,1496000,02/27/2024,Under Contract,Modern open-plan living,https://blackwoodestates.com/listings/USA-00638,02/27/2024
+USA-00639,Erin Butler,Multi-Family,Los Angeles,MH,USA,2,1,557,2858000,09/17/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00639,09/17/2022
+USA-00640,Robert Simmons,Multi-Family,New York,MA,USA,5,4,4397,1093000,11/07/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00640,11/07/2023
+USA-00641,Mr. Jonathan Warner,Condo,Toronto,ON,Canada,5,1,4509,3987000,10/12/2022,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00641,10/12/2022
+USA-00642,Penny Estrada,Penthouse,Miami,UT,USA,2,1,6218,310000,05/24/2024,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00642,05/24/2024
+USA-00643,Cody Dunn,Penthouse,San Francisco,MI,USA,1,1,2284,1964000,07/02/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00643,07/02/2022
+USA-00644,Jeremy Burke,Townhouse,Toronto,ON,Canada,7,3,7960,3410000,01/04/2023,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00644,01/04/2023
+USA-00645,Thomas Schultz,Single Family,San Francisco,MP,USA,4,1,7501,3818000,03/08/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00645,03/08/2022
+USA-00646,Penny Estrada,Villa,San Francisco,TX,USA,5,4,3938,3177000,09/19/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00646,09/19/2023
+USA-00647,Lori Alvarado,Penthouse,Los Angeles,VI,USA,4,5,5205,2008000,05/18/2024,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00647,05/18/2024
+USA-00648,David Nelson,Penthouse,San Francisco,WV,USA,2,3,8632,2411000,10/10/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00648,10/10/2023
+USA-00649,Johnathan Day,Villa,Montreal,ON,Canada,3,2,525,664000,04/22/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00649,04/22/2023
+USA-00650,Steven Reynolds,Single Family,Toronto,ON,Canada,4,4,1245,1602000,07/28/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00650,07/28/2023
+USA-00651,Carolyn Vazquez,Single Family,Montreal,ON,Canada,3,3,1611,1489000,06/03/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00651,06/03/2023
+USA-00652,David Nelson,Condo,Vancouver,ON,Canada,3,3,6988,3301000,09/23/2023,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00652,09/23/2023
+USA-00653,Thomas Schultz,Villa,San Francisco,VT,USA,6,4,8274,3618000,10/24/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00653,10/24/2023
+USA-00654,Cody Dunn,Penthouse,Denver,GU,USA,3,4,7282,4186000,02/27/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00654,02/27/2022
+USA-00655,Mark Powell,Single Family,Denver,NE,USA,5,1,3912,2662000,12/06/2022,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00655,12/06/2022
+USA-00656,David Nelson,Penthouse,Houston,TN,USA,7,1,6056,4429000,10/04/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00656,10/04/2023
+USA-00657,Adam King,Villa,Seattle,MA,USA,2,3,2414,3911000,02/09/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00657,02/09/2024
+USA-00658,Cody Dunn,Condo,Houston,MS,USA,4,1,8643,3965000,01/16/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00658,01/16/2023
+USA-00659,Jeremy Burke,Multi-Family,Houston,VT,USA,2,1,6631,3565000,03/07/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00659,03/07/2024
+USA-00660,Marcus Mckee,Penthouse,New York,OR,USA,7,8,8692,820000,12/15/2022,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00660,12/15/2022
+USA-00661,Kevin Wallace,Multi-Family,San Francisco,CT,USA,2,1,8956,3094000,05/16/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00661,05/16/2022
+USA-00662,Christopher Warren,Single Family,Montreal,ON,Canada,7,2,567,1503000,02/15/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00662,02/15/2022
+USA-00663,Steven Reynolds,Townhouse,Boston,CO,USA,1,1,5619,248000,02/16/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00663,02/16/2024
+USA-00664,Thomas Schultz,Condo,Chicago,AS,USA,3,3,5728,3512000,11/19/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00664,11/19/2023
+USA-00665,Thomas Schultz,Villa,Los Angeles,MI,USA,1,1,3884,2510000,07/17/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00665,07/17/2023
+USA-00666,Kevin Wallace,Condo,Toronto,ON,Canada,2,1,1667,1504000,12/13/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00666,12/13/2022
+USA-00667,David Nelson,Villa,Boston,MA,USA,6,1,2235,1819000,03/30/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00667,03/30/2022
+USA-00668,Steven Reynolds,Villa,Toronto,ON,Canada,6,7,7804,2831000,11/16/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00668,11/16/2022
+USA-00669,Tina Moore MD,Single Family,Los Angeles,NH,USA,7,8,2659,554000,04/01/2024,Under Contract,Walk to transport links,https://blackwoodestates.com/listings/USA-00669,04/01/2024
+USA-00670,Christopher Warren,Townhouse,Houston,IA,USA,6,6,8125,2197000,08/18/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00670,08/18/2022
+USA-00671,Joseph Moore,Single Family,Seattle,DC,USA,2,3,5912,3581000,11/29/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00671,11/29/2022
+USA-00672,Christopher Warren,Penthouse,Los Angeles,WY,USA,3,4,8056,3829000,10/17/2022,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00672,10/17/2022
+USA-00673,Cody Dunn,Penthouse,Denver,OH,USA,1,2,2252,1568000,10/28/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00673,10/28/2023
+USA-00674,Erin Butler,Multi-Family,Seattle,NV,USA,5,4,4408,2851000,07/16/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00674,07/16/2023
+USA-00675,Adam King,Penthouse,San Francisco,PA,USA,2,3,7563,3562000,03/22/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00675,03/22/2023
+USA-00676,Erin Butler,Single Family,Miami,AR,USA,6,6,1776,3366000,12/30/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00676,12/30/2023
+USA-00677,James Vega,Single Family,Toronto,ON,Canada,4,3,2099,3726000,06/30/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00677,06/30/2022
+USA-00678,Jeremy Burke,Condo,Los Angeles,KY,USA,6,7,6708,1574000,10/23/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00678,10/23/2023
+USA-00679,James Vega,Penthouse,Toronto,ON,Canada,7,1,2903,3025000,04/09/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00679,04/09/2023
+USA-00680,Cody Dunn,Multi-Family,Boston,AS,USA,2,1,5687,1454000,03/24/2024,Under Contract,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00680,03/24/2024
+USA-00681,Kevin Wallace,Townhouse,Los Angeles,MN,USA,5,1,8862,1908000,05/11/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00681,05/11/2022
+USA-00682,Jill Gordon,Penthouse,New York,WY,USA,1,2,2297,3896000,02/01/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00682,02/01/2022
+USA-00683,David Nelson,Multi-Family,Vancouver,ON,Canada,3,4,7152,1810000,07/13/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00683,07/13/2023
+USA-00684,Dana Peterson,Condo,Chicago,CA,USA,5,4,6402,3804000,06/07/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00684,06/07/2022
+USA-00685,Thomas Schultz,Single Family,New York,LA,USA,1,1,2859,3288000,05/14/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00685,05/14/2023
+USA-00686,Robert Simmons,Penthouse,Vancouver,ON,Canada,7,7,7971,4037000,12/14/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00686,12/14/2023
+USA-00687,Christopher Warren,Single Family,Boston,WV,USA,5,4,7873,1824000,08/20/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00687,08/20/2022
+USA-00688,Kevin Wallace,Single Family,Boston,AL,USA,7,4,8720,1321000,07/14/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00688,07/14/2023
+USA-00689,Marcus Mckee,Villa,Boston,NC,USA,6,3,2354,2674000,12/09/2023,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00689,12/09/2023
+USA-00690,Erin Butler,Villa,Houston,CT,USA,4,5,1781,2427000,09/17/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00690,09/17/2023
+USA-00691,Joseph Moore,Multi-Family,Vancouver,ON,Canada,6,5,5619,2817000,12/18/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00691,12/18/2022
+USA-00692,David Nelson,Single Family,Denver,PR,USA,4,5,5931,1981000,03/28/2024,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00692,03/28/2024
+USA-00693,Kevin Wallace,Villa,Montreal,ON,Canada,3,3,1506,2887000,08/16/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00693,08/16/2023
+USA-00694,Zachary Le,Townhouse,Montreal,ON,Canada,5,1,5199,2259000,05/10/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00694,05/10/2022
+USA-00695,Penny Estrada,Villa,Toronto,ON,Canada,3,3,4709,212000,04/25/2022,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00695,04/25/2022
+USA-00696,David Nelson,Penthouse,Vancouver,ON,Canada,4,3,3373,1286000,12/19/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00696,12/19/2023
+USA-00697,Carolyn Vazquez,Multi-Family,San Francisco,FL,USA,1,1,3025,3794000,02/10/2024,Under Contract,Stunning mountain views,https://blackwoodestates.com/listings/USA-00697,02/10/2024
+USA-00698,Lindsey Stevens,Townhouse,Vancouver,ON,Canada,4,2,3954,2663000,05/12/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00698,05/12/2024
+USA-00699,Carolyn Vazquez,Penthouse,New York,TN,USA,2,2,7033,2222000,05/03/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00699,05/03/2023
+USA-00700,Robert Simmons,Single Family,Seattle,MD,USA,6,6,6890,2214000,05/29/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00700,05/29/2022
+USA-00701,Robert Simmons,Penthouse,Boston,OH,USA,4,3,1172,574000,06/29/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00701,06/29/2023
+USA-00702,Carolyn Vazquez,Villa,San Francisco,MO,USA,3,3,2110,1261000,08/22/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00702,08/22/2023
+USA-00703,David Nelson,Townhouse,Montreal,ON,Canada,6,5,3693,2412000,11/25/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00703,11/25/2023
+USA-00704,Dana Peterson,Multi-Family,New York,KS,USA,6,1,1613,202000,04/11/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00704,04/11/2022
+USA-00705,Kevin Wallace,Penthouse,Chicago,OH,USA,6,3,4627,990000,01/25/2022,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00705,01/25/2022
+USA-00706,Dana Peterson,Villa,Toronto,ON,Canada,6,1,2465,526000,09/12/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00706,09/12/2023
+USA-00707,Lindsey Stevens,Multi-Family,Miami,ME,USA,1,1,4650,1431000,11/08/2023,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00707,11/08/2023
+USA-00708,Carolyn Vazquez,Single Family,Seattle,DC,USA,6,6,5798,1269000,03/10/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00708,03/10/2024
+USA-00709,Jeremy Burke,Multi-Family,Seattle,NH,USA,3,1,4730,4307000,09/29/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00709,09/29/2022
+USA-00710,Steven Reynolds,Penthouse,Toronto,ON,Canada,4,2,8561,622000,07/08/2023,Sold,Prime city centre location,https://blackwoodestates.com/listings/USA-00710,07/08/2023
+USA-00711,Zachary Le,Multi-Family,Boston,AK,USA,6,3,2192,302000,03/14/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00711,03/14/2022
+USA-00712,Thomas Schultz,Villa,Boston,OH,USA,2,3,514,4208000,11/12/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00712,11/12/2023
+USA-00713,Robert Simmons,Multi-Family,Seattle,MD,USA,5,1,8944,3228000,02/29/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00713,02/29/2024
+USA-00714,Johnathan Day,Penthouse,Denver,ID,USA,2,1,6798,4301000,04/17/2024,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00714,04/17/2024
+USA-00715,Mr. Jonathan Warner,Townhouse,San Francisco,NY,USA,3,3,7063,390000,10/25/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00715,10/25/2023
+USA-00716,Dana Peterson,Condo,Boston,VA,USA,7,5,3827,918000,02/10/2022,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00716,02/10/2022
+USA-00717,Steven Reynolds,Condo,Montreal,ON,Canada,4,1,6386,2266000,10/10/2023,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00717,10/10/2023
+USA-00718,Cody Dunn,Multi-Family,Chicago,RI,USA,1,1,8515,1841000,03/22/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00718,03/22/2024
+USA-00719,James Vega,Single Family,Boston,MA,USA,1,1,6058,394000,03/17/2024,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00719,03/17/2024
+USA-00720,Penny Estrada,Condo,Vancouver,ON,Canada,6,5,8009,4239000,07/04/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00720,07/04/2023
+USA-00721,Christopher Warren,Single Family,New York,SD,USA,6,2,8510,2994000,04/28/2023,Under Contract,Stunning mountain views,https://blackwoodestates.com/listings/USA-00721,04/28/2023
+USA-00722,Johnathan Day,Multi-Family,Montreal,ON,Canada,6,2,735,899000,02/21/2022,Under Contract,Exclusive gated community,https://blackwoodestates.com/listings/USA-00722,02/21/2022
+USA-00723,Susan Hebert,Single Family,Miami,GA,USA,7,2,2242,647000,09/02/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00723,09/02/2023
+USA-00724,Thomas Schultz,Townhouse,Seattle,VA,USA,3,4,5812,675000,12/02/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00724,12/02/2023
+USA-00725,Robert Simmons,Condo,New York,TX,USA,5,2,5996,425000,10/08/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00725,10/08/2022
+USA-00726,Lindsey Stevens,Penthouse,Denver,GA,USA,2,2,4491,4177000,02/11/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00726,02/11/2022
+USA-00727,Jill Gordon,Villa,Miami,GU,USA,1,2,1822,178000,07/03/2022,Under Contract,Exclusive gated community,https://blackwoodestates.com/listings/USA-00727,07/03/2022
+USA-00728,Tina Moore MD,Multi-Family,Houston,PW,USA,4,4,2579,1047000,10/18/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00728,10/18/2023
+USA-00729,Jeremy Burke,Villa,Miami,AS,USA,5,6,1116,2744000,01/05/2024,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00729,01/05/2024
+USA-00730,Christopher Warren,Townhouse,San Francisco,MI,USA,4,1,4360,985000,06/27/2023,Under Contract,Investment opportunity,https://blackwoodestates.com/listings/USA-00730,06/27/2023
+USA-00731,Thomas Schultz,Villa,Denver,CO,USA,2,2,3909,1352000,07/18/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00731,07/18/2022
+USA-00732,Robert Simmons,Townhouse,Boston,GA,USA,2,1,1206,385000,01/08/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00732,01/08/2023
+USA-00733,David Nelson,Condo,Toronto,ON,Canada,7,8,1209,604000,02/23/2022,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00733,02/23/2022
+USA-00734,Penny Estrada,Townhouse,Boston,TX,USA,5,1,1660,4044000,01/09/2024,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00734,01/09/2024
+USA-00735,Johnathan Day,Condo,Chicago,ID,USA,6,6,5836,1151000,04/23/2022,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00735,04/23/2022
+USA-00736,Robert Simmons,Condo,Chicago,MP,USA,4,2,1704,2199000,05/12/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00736,05/12/2023
+USA-00737,Lindsey Stevens,Townhouse,Toronto,ON,Canada,4,2,6846,1775000,04/14/2023,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00737,04/14/2023
+USA-00738,Johnathan Day,Multi-Family,Chicago,CO,USA,3,2,1025,3161000,03/03/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00738,03/03/2022
+USA-00739,Lindsey Stevens,Penthouse,Seattle,CO,USA,2,2,4102,4006000,09/11/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00739,09/11/2023
+USA-00740,Steven Reynolds,Penthouse,Toronto,ON,Canada,5,2,1916,1941000,06/19/2023,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00740,06/19/2023
+USA-00741,Robert Simmons,Penthouse,Boston,PA,USA,3,1,7514,3352000,09/10/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00741,09/10/2022
+USA-00742,Erin Butler,Villa,Toronto,ON,Canada,2,3,583,1967000,02/15/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00742,02/15/2022
+USA-00743,Johnathan Day,Multi-Family,New York,ME,USA,4,5,6960,2235000,03/28/2024,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00743,03/28/2024
+USA-00744,Susan Hebert,Villa,Chicago,AR,USA,1,1,7162,4282000,05/16/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00744,05/16/2022
+USA-00745,Penny Estrada,Single Family,New York,FM,USA,4,3,3150,3209000,05/28/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00745,05/28/2024
+USA-00746,Jill Gordon,Villa,Boston,GU,USA,7,3,7141,955000,01/15/2023,Sold,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00746,01/15/2023
+USA-00747,Zachary Le,Villa,Vancouver,ON,Canada,1,2,5954,2460000,10/31/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00747,10/31/2022
+USA-00748,Kevin Wallace,Penthouse,Denver,MS,USA,5,2,1826,2849000,12/10/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00748,12/10/2022
+USA-00749,David Nelson,Villa,New York,NJ,USA,1,2,6489,2174000,02/11/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00749,02/11/2022
+USA-00750,Lindsey Stevens,Multi-Family,Montreal,ON,Canada,1,1,2767,4418000,09/02/2022,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00750,09/02/2022
+USA-00751,Robert Simmons,Townhouse,Montreal,ON,Canada,2,3,4193,1544000,10/01/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00751,10/01/2022
+USA-00752,Erin Butler,Villa,Los Angeles,WV,USA,3,3,7912,2265000,06/24/2023,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00752,06/24/2023
+USA-00753,Jill Gordon,Single Family,Vancouver,ON,Canada,7,5,7905,2851000,03/30/2024,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00753,03/30/2024
+USA-00754,Jeremy Burke,Single Family,Boston,MI,USA,1,1,6900,4056000,10/23/2022,Under Contract,Modern open-plan living,https://blackwoodestates.com/listings/USA-00754,10/23/2022
+USA-00755,Lindsey Stevens,Single Family,Houston,AL,USA,1,1,8631,805000,07/29/2022,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00755,07/29/2022
+USA-00756,Lindsey Stevens,Single Family,Seattle,NC,USA,6,5,2663,2211000,03/07/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00756,03/07/2023
+USA-00757,Robert Simmons,Penthouse,Chicago,MD,USA,1,1,4306,3782000,06/17/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00757,06/17/2023
+USA-00758,Mr. Jonathan Warner,Multi-Family,Vancouver,ON,Canada,6,7,5846,2265000,11/13/2023,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00758,11/13/2023
+USA-00759,Mark Powell,Townhouse,Houston,VT,USA,5,2,5521,897000,09/24/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00759,09/24/2022
+USA-00760,Jill Gordon,Penthouse,Miami,IN,USA,3,3,7969,4310000,09/26/2023,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00760,09/26/2023
+USA-00761,Adam King,Penthouse,Miami,MN,USA,2,3,3014,851000,04/30/2022,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00761,04/30/2022
+USA-00762,Adam King,Townhouse,Boston,NC,USA,3,3,3522,1042000,12/26/2023,Active,Modern open-plan living,https://blackwoodestates.com/listings/USA-00762,12/26/2023
+USA-00763,James Vega,Multi-Family,San Francisco,IA,USA,4,5,3163,2471000,05/05/2022,Under Contract,Modern open-plan living,https://blackwoodestates.com/listings/USA-00763,05/05/2022
+USA-00764,Adam King,Villa,Boston,PW,USA,3,2,570,4370000,07/14/2023,Under Contract,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00764,07/14/2023
+USA-00765,Kevin Wallace,Condo,Boston,OH,USA,3,2,7743,1623000,04/26/2022,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00765,04/26/2022
+USA-00766,Jeremy Burke,Townhouse,Los Angeles,NM,USA,3,1,7080,2836000,08/14/2022,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00766,08/14/2022
+USA-00767,Joseph Moore,Single Family,Toronto,ON,Canada,6,2,4139,3549000,02/25/2024,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00767,02/25/2024
+USA-00768,Adam King,Penthouse,Boston,ME,USA,6,6,1931,4395000,02/08/2023,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00768,02/08/2023
+USA-00769,James Vega,Townhouse,Denver,PR,USA,1,2,7013,794000,05/24/2024,Active,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00769,05/24/2024
+USA-00770,Marcus Mckee,Multi-Family,Houston,AS,USA,3,3,5547,4402000,07/29/2023,Active,Private pool and garden,https://blackwoodestates.com/listings/USA-00770,07/29/2023
+USA-00771,Penny Estrada,Penthouse,Boston,AL,USA,3,2,7444,3319000,03/01/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00771,03/01/2023
+USA-00772,Jeremy Burke,Penthouse,Miami,MH,USA,2,2,8276,4449000,06/22/2023,Under Contract,Private pool and garden,https://blackwoodestates.com/listings/USA-00772,06/22/2023
+USA-00773,Penny Estrada,Condo,Los Angeles,ME,USA,1,2,4978,1953000,07/24/2023,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00773,07/24/2023
+USA-00774,Cody Dunn,Penthouse,Miami,NE,USA,7,7,5242,2559000,02/13/2022,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00774,02/13/2022
+USA-00775,Zachary Le,Townhouse,Boston,CT,USA,5,6,8093,1127000,03/21/2024,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00775,03/21/2024
+USA-00776,Lindsey Stevens,Condo,Los Angeles,FL,USA,6,6,5213,1965000,05/19/2023,Under Contract,Luxury waterfront estate,https://blackwoodestates.com/listings/USA-00776,05/19/2023
+USA-00777,Mark Powell,Penthouse,Los Angeles,MD,USA,7,5,8578,4475000,03/10/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00777,03/10/2022
+USA-00778,Lori Alvarado,Villa,Toronto,ON,Canada,4,3,8299,4388000,04/17/2024,Active,Exclusive gated community,https://blackwoodestates.com/listings/USA-00778,04/17/2024
+USA-00779,Jill Gordon,Condo,New York,DE,USA,7,5,3168,2680000,05/30/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00779,05/30/2022
+USA-00780,Cody Dunn,Penthouse,Miami,ND,USA,1,2,6417,1975000,12/31/2022,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00780,12/31/2022
+USA-00781,Mr. Jonathan Warner,Townhouse,Denver,IA,USA,2,3,3502,3476000,09/06/2023,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00781,09/06/2023
+USA-00782,Mr. Jonathan Warner,Penthouse,Vancouver,ON,Canada,7,5,4947,3132000,12/06/2023,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00782,12/06/2023
+USA-00783,Adam King,Condo,Miami,MD,USA,1,1,8989,1374000,03/08/2024,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00783,03/08/2024
+USA-00784,Christopher Warren,Villa,Chicago,FL,USA,2,3,4122,3767000,03/25/2024,Sold,Investment opportunity,https://blackwoodestates.com/listings/USA-00784,03/25/2024
+USA-00785,Thomas Schultz,Single Family,Denver,MO,USA,6,5,2367,1965000,03/20/2022,Active,Walk to transport links,https://blackwoodestates.com/listings/USA-00785,03/20/2022
+USA-00786,Adam King,Condo,San Francisco,AR,USA,3,3,2777,3704000,09/04/2023,Active,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00786,09/04/2023
+USA-00787,Jill Gordon,Condo,New York,VA,USA,6,7,2443,1117000,05/27/2024,Sold,Sought-after neighbourhood,https://blackwoodestates.com/listings/USA-00787,05/27/2024
+USA-00788,Jeremy Burke,Single Family,Miami,IN,USA,2,1,1787,1998000,02/21/2024,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00788,02/21/2024
+USA-00789,Kevin Wallace,Multi-Family,Seattle,LA,USA,1,1,2266,293000,11/07/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00789,11/07/2023
+USA-00790,Johnathan Day,Penthouse,Houston,SC,USA,1,1,5442,3054000,02/12/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00790,02/12/2024
+USA-00791,Zachary Le,Penthouse,Toronto,ON,Canada,2,1,6259,277000,05/30/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00791,05/30/2022
+USA-00792,Penny Estrada,Single Family,San Francisco,TX,USA,2,3,4462,2346000,03/11/2022,Active,Investment opportunity,https://blackwoodestates.com/listings/USA-00792,03/11/2022
+USA-00793,Marcus Mckee,Single Family,Chicago,OR,USA,6,2,5117,897000,02/12/2024,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00793,02/12/2024
+USA-00794,Johnathan Day,Condo,Denver,ID,USA,7,8,6504,3187000,07/09/2022,Active,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00794,07/09/2022
+USA-00795,Adam King,Single Family,Seattle,IN,USA,4,2,8925,1140000,04/26/2022,Sold,Walk to transport links,https://blackwoodestates.com/listings/USA-00795,04/26/2022
+USA-00796,Marcus Mckee,Single Family,Los Angeles,NV,USA,5,2,8623,3466000,12/23/2023,Active,Prime city centre location,https://blackwoodestates.com/listings/USA-00796,12/23/2023
+USA-00797,Dana Peterson,Multi-Family,San Francisco,IA,USA,4,1,6804,1384000,09/07/2023,Sold,Stunning mountain views,https://blackwoodestates.com/listings/USA-00797,09/07/2023
+USA-00798,Erin Butler,Villa,Denver,PW,USA,4,3,7511,971000,03/13/2022,Sold,Recently renovated throughout,https://blackwoodestates.com/listings/USA-00798,03/13/2022
+USA-00799,Jeremy Burke,Single Family,Miami,NE,USA,1,2,2223,1874000,06/20/2023,Sold,Modern open-plan living,https://blackwoodestates.com/listings/USA-00799,06/20/2023
+USA-00800,Steven Reynolds,Townhouse,Seattle,IL,USA,4,5,2166,3375000,06/22/2022,Active,Stunning mountain views,https://blackwoodestates.com/listings/USA-00800,06/22/2022

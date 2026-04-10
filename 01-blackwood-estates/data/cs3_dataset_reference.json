@@ -1,0 +1,115 @@
+{
+  "case_study": "CS3 \u2014 Blackwood Estates Wildcard File Loading",
+  "generated": "2026-04-04T19:09:19.852236",
+  "files": {
+    "listings_usa.csv": {
+      "rows": 800,
+      "format": "CSV",
+      "region": "USA + Canada",
+      "date_format": "MM/DD/YYYY",
+      "key_columns": {
+        "id": "ListingID",
+        "price": "ListingPrice",
+        "beds": "Bedrooms",
+        "baths": "Bathrooms",
+        "area": "SqFt",
+        "date": "ListDate",
+        "status": "Status (Active/Sold/Under Contract)",
+        "agent": "AgentName"
+      }
+    },
+    "listings_europe.json": {
+      "rows": 600,
+      "format": "JSON (array of objects)",
+      "region": "UK + EU (6 countries)",
+      "date_format": "DD-MM-YYYY",
+      "area_unit": "sqm (not sqft)",
+      "key_columns": {
+        "id": "listing_id",
+        "price": "asking_price",
+        "beds": "num_bedrooms",
+        "baths": "num_bathrooms",
+        "area": "area_sqm",
+        "date": "listed_on",
+        "status": "status (active/sold lowercase)",
+        "agent": "agent_name"
+      }
+    },
+    "listings_apac.xlsx": {
+      "rows": 400,
+      "format": "Excel (.xlsx)",
+      "region": "AU + SG + HK",
+      "date_format": "YYYY/MM/DD",
+      "extra_columns": [
+        "PricePerSqFt",
+        "ViewType",
+        "FurnishedStatus"
+      ],
+      "key_columns": {
+        "id": "PropertyRef",
+        "price": "Price_USD",
+        "beds": "BedCount",
+        "baths": "BathCount",
+        "area": "FloorArea_sqft",
+        "date": "DateListed",
+        "status": "ListingStatus (Available/Sold)",
+        "agent": "ListingAgent"
+      }
+    }
+  },
+  "schema_conflicts": {
+    "price_column": [
+      "ListingPrice",
+      "asking_price",
+      "Price_USD"
+    ],
+    "beds_column": [
+      "Bedrooms",
+      "num_bedrooms",
+      "BedCount"
+    ],
+    "baths_column": [
+      "Bathrooms",
+      "num_bathrooms",
+      "BathCount"
+    ],
+    "area_column": [
+      "SqFt (sqft)",
+      "area_sqm (sqm)",
+      "FloorArea_sqft (sqft)"
+    ],
+    "date_column": [
+      "ListDate MM/DD/YYYY",
+      "listed_on DD-MM-YYYY",
+      "DateListed YYYY/MM/DD"
+    ],
+    "status_values": [
+      "Active/Sold/Under Contract",
+      "active/sold",
+      "Available/Sold"
+    ],
+    "country_format": [
+      "Full name",
+      "ISO2 code",
+      "Full name"
+    ]
+  },
+  "unified_silver_schema": {
+    "ListingID": "STRING \u2014 canonical identifier (source prefix + original ID)",
+    "SourceRegion": "STRING \u2014 USA / Europe / APAC",
+    "SourceFile": "STRING \u2014 original filename",
+    "AgentName": "STRING \u2014 standardised agent name",
+    "PropertyType": "STRING \u2014 standardised to: Apartment/House/Villa/Townhouse/Penthouse/Other",
+    "City": "STRING",
+    "Country": "STRING \u2014 always full name (ISO2 codes resolved)",
+    "Bedrooms": "INTEGER",
+    "Bathrooms": "INTEGER",
+    "AreaSqFt": "DOUBLE \u2014 always sqft (sqm converted \u00d7 10.764)",
+    "ListingPrice": "DOUBLE \u2014 always USD (GBP converted)",
+    "ListDate": "DATE \u2014 always yyyy-MM-dd",
+    "Status": "STRING \u2014 standardised to: Active/Sold/Other",
+    "Description": "STRING",
+    "_source_file": "STRING \u2014 audit: original filename",
+    "_ingestion_ts": "TIMESTAMP \u2014 audit: when loaded"
+  }
+}

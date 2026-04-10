@@ -1,0 +1,2 @@
+This file has an unsupported format
+The pipeline should quarantine it
