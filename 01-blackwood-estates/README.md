@@ -55,7 +55,7 @@ Files/quarantine/            →  1 file quarantined
 
 ## Architecture
 
-![Architecture Diagram](./architecture/cs3_architecture.svg)
+![Architecture Diagram](./architecture/architecture.svg)
 
 ---
 
