@@ -190,6 +190,29 @@ One row per quarantined file. Data Activator designed to monitor this table.
 
 ---
 ## Screenshoots
+<img width="2498" height="639" alt="01_bronze_lakehouse_folders" src="https://github.com/user-attachments/assets/db812e90-0308-404a-8886-4536adaf4e64" />
+
+<img width="2515" height="475" alt="01_bronze_lakehouse_folders_processed" src="https://github.com/user-attachments/assets/88e4d587-14b6-4b28-8072-9e81e4886b03" />
+
+<img width="2513" height="1217" alt="bronze_listings_all_regions" src="https://github.com/user-attachments/assets/f3b1f1e1-c047-4e89-8acd-5c61757d403c" />
+
+<img width="2492" height="1235" alt="nb01_csv_output" src="https://github.com/user-attachments/assets/647d8089-8e45-41d9-b242-6ce2249cd3b0" />
+
+<img width="2506" height="1180" alt="nb02_json_output" src="https://github.com/user-attachments/assets/de85bc0b-d6b9-4ea6-9ef3-2a071075b24d" />
+
+<img width="2468" height="1097" alt="nb03_excel_output" src="https://github.com/user-attachments/assets/464faa75-1937-42c8-8096-a82a299d50d3" />
+
+<img width="2481" height="1251" alt="nb04_silver_output" src="https://github.com/user-attachments/assets/c4a99b02-1b3b-49f2-8b82-1e46486480b5" />
+
+<img width="2461" height="693" alt="pipeline_canvas_main" src="https://github.com/user-attachments/assets/8cac2f10-eb5d-47eb-ab65-2c7028fe180f" />
+
+<img width="2554" height="1197" alt="pipeline_switch_cases" src="https://github.com/user-attachments/assets/2a846e44-5ea1-4050-bea2-ec9f72d345ff" />
+
+
+
+
+
+
 
 ---
 
