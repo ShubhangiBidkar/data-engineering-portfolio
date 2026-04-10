@@ -1,4 +1,4 @@
-# Case Study 03 — Wildcard File Loading Pipeline
+# Case Study 01 — Blackwood Estates - Wildcard File Loading Pipeline
 
 **Industry:** Luxury Real Estate — Global Multi-Region Agency  
 **Platform:** Microsoft Fabric — Data Factory + Lakehouse + PySpark  
