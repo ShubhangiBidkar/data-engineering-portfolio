@@ -62,7 +62,7 @@ Design and implement an automated incremental JSON ingestion pipeline in Microso
 
 ✅ Applied **PySpark `explode()` twice** — first to flatten the legs array (1,200 shipments → 3,063 legs), then to flatten the events array within each leg (3,063 legs → 9,300 events). This produces three fully normalised flat tables from a three-level nested JSON structure.
 
-✅ Used **Filter Activity** to select only `.json` files from the landing folder — chosen over Switch Activity because CS2 processes only one format. Filter reduces the file list before ForEach iterates. Switch would add unnecessary complexity with a Default case for a scenario where non-JSON files should simply be excluded not quarantined.
+✅ Used **Filter Activity** with a dual condition — selects only `.json` files AND only files with a filename greater than the last processed batch stored in `watermark_control`. Timestamp-prefixed filenames (`20240401_060000_gff_batch.json`) make string comparison equivalent to chronological comparison. ForEach processes all unprocessed files sequentially — batch1 completes and advances the watermark before batch2 starts. No Set Variable activity is used — Filter handles all selection logic directly, removing a fragile intermediate step that broke when file counts changed between runs.
 
 ✅ Built a **Gold star schema with conformed dimensions** — `dim_carrier` and `dim_port` are shared between `fact_shipments` and `fact_legs`, enabling cross-fact queries: "For shipments delayed at Hamburg, which transport mode caused the leg-level delay?" This is the Kimball conformed dimension pattern.
 
@@ -81,8 +81,7 @@ PL_GFF_Incremental
 ├── GetFiles_ApiFolder    → lists all JSON files (parallel)
 ├── Lookup_Watermark      → reads last_watermark_ts (parallel)
 ├── Filter_JSON_Files     → keeps only .json files
-├── Set_CurrentBatch      → selects batch1 or batch2 based on watermark
-├── ForEach_JSON_Batches  → loops over selected batch
+├── ForEach_JSON_Batches  → loops over all unprocessed files (sequential)
 │   ├── NB_01_Bronze_Raw      → blob preservation + watermark filter
 │   ├── NB_02_Bronze_Flatten  → explode() legs then events
 │   └── Move_To_Processed     → file moves out of landing zone
@@ -295,20 +294,7 @@ freight_value_band                          delay_category
 └── screenshots/
 ```
 
----
 
-## How to Reproduce
-
-1. Create `GFF_Lakehouse` with `bronze`, `silver`, `gold` schemas
-2. Upload both JSON files to `Files/api_batches/`
-3. Create `Files/processed/` folder
-4. Run `NB_00_Setup` — seeds `watermark_control` at 1900-01-01
-5. Build `PL_GFF_Incremental` — GetFiles + Lookup (parallel) + Filter + ForEach + 5 notebooks
-6. Run pipeline — batch1 processes, watermark advances to 2024-04-01
-7. Run pipeline again — batch2 processes, watermark advances to 2024-04-02
-8. Azure portal → Monitor → Create Action Group → Create Alert Rule
-
----
 
 ## Concepts Covered
 
