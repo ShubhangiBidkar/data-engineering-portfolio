@@ -73,7 +73,7 @@ Design and implement an automated, auditable wildcard file ingestion pipeline wi
 
 ## Architecture
 
-![Architecture Diagram](./architecture/cs1_architecture.svg)
+![Architecture Diagram](./architecture/architecture.svg)
 
 ```
 Regional Files (ADLS Gen2 · Files/incoming/)
@@ -213,72 +213,41 @@ Resolving in Bronze means Silver and Gold always receive consistent country valu
 ## Implementation Screenshots
 
 ### Bronze Lakehouse — Folder Structure
-![Bronze Folders](./screenshots/01_bronze_lakehouse_folders.png)
-
-### Incoming Files — All 4 Files Uploaded
-![Incoming Files](./screenshots/02_incoming_files_uploaded.png)
+![alt text](01_bronze_lakehouse_folders.png)
 
 ### NB_01 — USA CSV Ingestion Output
-![NB_01 Output](./screenshots/03_nb01_csv_output.png)
+![alt text](nb01_csv_output.png)
 
 ### NB_02 — Europe JSON Output (sqm→sqft + ISO2 resolved)
-![NB_02 Output](./screenshots/04_nb02_json_output.png)
+![alt text](nb02_json_output.png)
 
 ### NB_03 — APAC Excel Output
-![NB_03 Output](./screenshots/05_nb03_excel_output.png)
+![alt text](nb03_excel_output.png)
 
 ### NB_04 — Silver Unified Output (quality rules + property types)
-![NB_04 Output](./screenshots/06_nb04_silver_output.png)
+![alt text](nb04_silver_output.png)
 
 ### Bronze Listings — All 3 Regions
-![Bronze Table](./screenshots/07_bronze_listings_all_regions.png)
+![alt text](bronze_listings_all_regions.png)
 
-### Silver Listings — Unified Schema
-![Silver Table](./screenshots/08_silver_listings_unified.png)
 
 ### Pipeline Canvas — Main View
-![Pipeline Canvas](./screenshots/09_pipeline_canvas_main.png)
+![alt text](pipeline_canvas_main.png)
 
 ### Switch Activity — All 4 Cases
-![Switch Cases](./screenshots/10_pipeline_switch_cases.png)
+![alt text](pipeline_switch_cases-1.png)
 
 ### Pipeline Run — Success
-![Pipeline Run](./screenshots/11_pipeline_run_success.png)
+![alt text](pipeline_switch_cases.png)
 
 ### Pipeline Log Table
-![Pipeline Log](./screenshots/12_pipeline_log_table.png)
-
-### Quarantine Log — corrupted_data.txt
-![Quarantine Log](./screenshots/13_quarantine_log_table.png)
+![alt text](image.png)
 
 ### Processed + Quarantine Folders After Run
-![Folders After](./screenshots/14_processed_quarantine_folders.png)
+![alt text](image-2.png)
 
 ---
 
-## Files
-
-```
-01-blackwood-estates/
-├── README.md
-├── architecture/
-│   └── cs1_architecture.svg
-├── data/
-│   ├── listings_usa.csv
-│   ├── listings_europe.json
-│   ├── listings_apac.xlsx
-│   ├── corrupted_data.txt
-│   └── dataset_reference.json
-├── notebooks/
-│   ├── NB_00_Setup.py
-│   ├── NB_01_Ingest_CSV.py
-│   ├── NB_02_Ingest_JSON.py
-│   ├── NB_03_Ingest_Excel.py
-│   ├── NB_04_Silver_Listings.py
-│   ├── NB_Log_Quarantine.py
-│   └── NB_Log_Pipeline.py
-└── screenshots/
-```
 
 ## Concepts Covered
 
